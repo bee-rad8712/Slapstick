@@ -15260,12 +15260,3 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.27-04.36.34:052][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
 [2024.01.27-04.36.34:060][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
 [2024.01.27-04.36.34:117][828]LogPlayLevel: Display: Destroying online subsystem :Context_42
-[2024.01.27-04.39.03:051][ 52]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
-[2024.01.27-04.39.03:132][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
-[2024.01.27-04.39.04:058][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2024.01.27-04.39.04:259][119]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
-[2024.01.27-04.39.04:260][119]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/BP_ThirdPersonCharacterCB71091448B158D5DB55F8AC27E4A95B.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
-[2024.01.27-04.39.04:269][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 6.75 sec)
-[2024.01.27-04.39.04:271][119]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
-[2024.01.27-04.39.04:271][119]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
-[2024.01.27-04.39.05:568][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
