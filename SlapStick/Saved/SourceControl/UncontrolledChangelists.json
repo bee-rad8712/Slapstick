@@ -5,7 +5,29 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/TestCharacter/character_PhysicsAsset.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/TestCharacter/character_Skeleton.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/TestCharacter/Beta_Joints_MAT1.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/TestCharacter/Beta_HighLimbsGeoSG3.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/TestCharacter/character.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/TestCharacter/Animations/Standing_Idle.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/TestCharacter/Animations/Walking.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/TestCharacter/Animations/Running.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/TestCharacter/Animations/Punching.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/TestCharacter/Animations/Movement_Blendspace.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/TestCharacter/Animations/TestChar_ABP.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/ThirdPerson/Blueprints/BP_Enemy1.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/ThirdPerson/Blueprints/Enemies/BP_Enemy1.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/ThirdPerson/Blueprints/Enemies/Enemy1_Controller.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/ThirdPerson/Blueprints/Enemies/Enemy1/Enemy1_Controller.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/ThirdPerson/Blueprints/Enemies/Enemy1/BP_Enemy1.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/ThirdPerson/Blueprints/Enemies/Enemy1/BB_Enemy1.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/ThirdPerson/Blueprints/Enemies/Enemy1/BT_Enemy1.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/ThirdPerson/Blueprints/Enemies/Enemy1/Tasks/BaseAttack.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/SG/R72V2FNK9CA3EII21IFTSC.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4K/TJLW67MNGYCTGI2XKNCQEZ.uasset",
+				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Y5/438ZO37I3EMFISH4H2I8VM.uasset"
 			]
 		}
 	]
