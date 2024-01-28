@@ -1962,3 +1962,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.28-10.42.51:494][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
 [2024.01.28-10.42.51:576][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
 [2024.01.28-10.42.51:785][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.01.28-10.43.23:879][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.28-10.43.23:890][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-10.43.23:950][830]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PE/8WR613QQWECT0MDU9XUPA3
+[2024.01.28-10.43.23:950][830]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/8WR613QQWECT0MDU9XUPA36DA4D135428282FE9B0F539FCCC8C292.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PE/8WR613QQWECT0MDU9XUPA3.uasset'
+[2024.01.28-10.43.23:956][830]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/AV/7Q8QXBK1D35GSX4C9V1WET
+[2024.01.28-10.43.23:956][830]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/7Q8QXBK1D35GSX4C9V1WETE575129B42376F7333260AAA30E7B0D7.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/AV/7Q8QXBK1D35GSX4C9V1WET.uasset'
+[2024.01.28-10.43.23:969][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2.31 sec)
+[2024.01.28-10.43.23:976][830]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-10.43.23:976][830]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequenceActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LevelSequenceActor_UAID_A8A1593176F2BCD301_1964066063
+[2024.01.28-10.43.23:976][830]LogContentValidation: Display: Validating /Script/CinematicCamera.CineCameraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CineCameraActor_UAID_A8A1593176F2BCD301_2000148064
