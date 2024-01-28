@@ -15290,3 +15290,947 @@ Converted Global Transform (0.000000,0.000000,0.000000|90.000000,45.000000,-44.9
 [2024.01.28-03.28.04:171][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
 [2024.01.28-03.28.04:200][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
 [2024.01.28-03.28.04:317][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2024.01.28-03.44.27:278][266]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Bradley Vu/Downloads/steel_cage (1).fbx)
+[2024.01.28-03.44.28:340][266]LogFbx: Loading FBX Scene from ../../../../../../Users/Bradley Vu/Downloads/steel_cage (1).fbx
+[2024.01.28-03.44.31:747][266]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.28-03.44.34:214][266]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.28-03.45.13:359][266]LogFbx: Display: Triangulating static mesh steel_cage
+[2024.01.28-03.45.25:055][266]LogStaticMesh: Display: Building static mesh steel_cage__1_...
+[2024.01.28-03.45.26:687][266]LogStaticMesh: Adjacency [0.08s], tris: 434544, UVs 2
+[2024.01.28-03.45.27:220][266]LogStaticMesh: Clustering [0.53s]. Ratio: 1.019146
+[2024.01.28-03.45.27:262][266]LogStaticMesh: Leaves [0.04s]
+[2024.01.28-03.45.32:489][266]LogStaticMesh: Reduce [5.22s]
+[2024.01.28-03.45.33:290][266]LogStaticMesh: Fallback 0/1 [0.80s], num tris: 16576
+[2024.01.28-03.45.34:033][266]LogStaticMesh: ConstrainClusters:
+[2024.01.28-03.45.34:033][266]LogStaticMesh:   Input: 7118 Clusters, 894802 Triangles and 1535149 Vertices
+[2024.01.28-03.45.34:033][266]LogStaticMesh:   Output without splits: 7118 Clusters, 894802 Triangles and 1536641 Vertices
+[2024.01.28-03.45.34:033][266]LogStaticMesh:   Output with splits: 9715 Clusters, 894802 Triangles and 1538600 Vertices
+[2024.01.28-03.45.34:044][266]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 9715, Slow Path Clusters: 0, 1 Material: 9715, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.01.28-03.45.34:404][266]LogStaticMesh: WritePages:
+[2024.01.28-03.45.34:404][266]LogStaticMesh:   Root: GPU size: 32640 bytes. 1 Pages. 32640.000 bytes per page (99.609% utilization).
+[2024.01.28-03.45.34:404][266]LogStaticMesh:   Streaming: GPU size: 14758292 bytes. 114 Pages (108 with relative encoding). 129458.703 bytes per page (98.769% utilization).
+[2024.01.28-03.45.34:404][266]LogStaticMesh:   Page data disk size: 13191568 bytes. Fixup data size: 67600 bytes.
+[2024.01.28-03.45.34:404][266]LogStaticMesh:   Total GPU size: 14790932 bytes, Total disk size: 13259168 bytes.
+[2024.01.28-03.45.34:408][266]LogStaticMesh: Encode [1.12s]
+[2024.01.28-03.45.34:408][266]LogStaticMesh: Nanite build [7.14s]
+
+[2024.01.28-03.45.34:517][266]LogStaticMesh: Built static mesh [9.47s] /Game/Environment/steel_cage__1_.steel_cage__1_
+[2024.01.28-03.45.34:609][266]LogStaticMesh: Warning: steel_cage__1_ has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.01.28-03.45.34:609][266]LogStaticMesh: Warning: steel_cage__1_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.01.28-03.45.34:689][266]FBXImport: Warning: steel_cage__1_ has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2024.01.28-03.45.34:689][266]FBXImport: Warning: steel_cage__1_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.01.28-03.45.34:789][266]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Bradley Vu/Downloads/table_half_1 (1).fbx)
+[2024.01.28-03.45.34:808][266]LogFbx: Loading FBX Scene from ../../../../../../Users/Bradley Vu/Downloads/table_half_1 (1).fbx
+[2024.01.28-03.45.34:854][266]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.28-03.45.35:051][266]LogFbx: Display: Triangulating static mesh table_piece_1
+[2024.01.28-03.45.35:169][266]LogStaticMesh: Display: Building static mesh table_half_1__1_...
+[2024.01.28-03.45.35:212][266]LogStaticMesh: Adjacency [0.00s], tris: 4252, UVs 2
+[2024.01.28-03.45.35:221][266]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2024.01.28-03.45.35:222][266]LogStaticMesh: Leaves [0.00s]
+[2024.01.28-03.45.35:438][266]LogStaticMesh: Reduce [0.22s]
+[2024.01.28-03.45.35:480][266]LogStaticMesh: Fallback 0/1 [0.04s], num tris: 429
+[2024.01.28-03.45.35:485][266]LogStaticMesh: ConstrainClusters:
+[2024.01.28-03.45.35:485][266]LogStaticMesh:   Input: 72 Clusters, 9031 Triangles and 11465 Vertices
+[2024.01.28-03.45.35:485][266]LogStaticMesh:   Output without splits: 72 Clusters, 9031 Triangles and 11487 Vertices
+[2024.01.28-03.45.35:485][266]LogStaticMesh:   Output with splits: 84 Clusters, 9031 Triangles and 11499 Vertices
+[2024.01.28-03.45.35:486][266]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 84, Slow Path Clusters: 0, 1 Material: 78, 2 Materials: 6, 3 Materials: 0, At Least 4 Materials: 0
+[2024.01.28-03.45.35:490][266]LogStaticMesh: WritePages:
+[2024.01.28-03.45.35:490][266]LogStaticMesh:   Root: GPU size: 32080 bytes. 1 Pages. 32080.000 bytes per page (97.900% utilization).
+[2024.01.28-03.45.35:490][266]LogStaticMesh:   Streaming: GPU size: 133736 bytes. 2 Pages (2 with relative encoding). 66868.000 bytes per page (51.016% utilization).
+[2024.01.28-03.45.35:490][266]LogStaticMesh:   Page data disk size: 113792 bytes. Fixup data size: 496 bytes.
+[2024.01.28-03.45.35:490][266]LogStaticMesh:   Total GPU size: 165816 bytes, Total disk size: 114288 bytes.
+[2024.01.28-03.45.35:490][266]LogStaticMesh: Encode [0.01s]
+[2024.01.28-03.45.35:490][266]LogStaticMesh: Nanite build [0.27s]
+
+[2024.01.28-03.45.35:495][266]LogStaticMesh: Built static mesh [0.33s] /Game/Environment/table_half_1__1_.table_half_1__1_
+[2024.01.28-03.45.35:497][266]LogStaticMesh: Warning: table_half_1__1_ has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.01.28-03.45.35:497][266]LogStaticMesh: Warning: table_half_1__1_ has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2024.01.28-03.45.35:497][266]LogStaticMesh: Warning: table_half_1__1_ has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.01.28-03.45.35:497][266]LogStaticMesh: Warning: table_half_1__1_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.01.28-03.45.35:518][266]FBXImport: Warning: table_half_1__1_ has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.01.28-03.45.35:519][266]FBXImport: Warning: table_half_1__1_ has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2024.01.28-03.45.35:519][266]FBXImport: Warning: table_half_1__1_ has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2024.01.28-03.45.35:519][266]FBXImport: Warning: table_half_1__1_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.01.28-03.45.35:525][266]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Bradley Vu/Downloads/table_half_2 (1).fbx)
+[2024.01.28-03.45.35:543][266]LogFbx: Loading FBX Scene from ../../../../../../Users/Bradley Vu/Downloads/table_half_2 (1).fbx
+[2024.01.28-03.45.35:586][266]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.28-03.45.35:653][266]LogFbx: Display: Triangulating static mesh table_piece_2
+[2024.01.28-03.45.35:752][266]LogStaticMesh: Display: Building static mesh table_half_2__1_...
+[2024.01.28-03.45.35:794][266]LogStaticMesh: Adjacency [0.00s], tris: 4245, UVs 2
+[2024.01.28-03.45.35:804][266]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2024.01.28-03.45.35:805][266]LogStaticMesh: Leaves [0.00s]
+[2024.01.28-03.45.36:000][266]LogStaticMesh: Reduce [0.20s]
+[2024.01.28-03.45.36:039][266]LogStaticMesh: Fallback 0/1 [0.04s], num tris: 449
+[2024.01.28-03.45.36:045][266]LogStaticMesh: ConstrainClusters:
+[2024.01.28-03.45.36:045][266]LogStaticMesh:   Input: 72 Clusters, 9031 Triangles and 11540 Vertices
+[2024.01.28-03.45.36:045][266]LogStaticMesh:   Output without splits: 72 Clusters, 9031 Triangles and 11556 Vertices
+[2024.01.28-03.45.36:045][266]LogStaticMesh:   Output with splits: 87 Clusters, 9031 Triangles and 11570 Vertices
+[2024.01.28-03.45.36:045][266]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 87, Slow Path Clusters: 0, 1 Material: 81, 2 Materials: 6, 3 Materials: 0, At Least 4 Materials: 0
+[2024.01.28-03.45.36:050][266]LogStaticMesh: WritePages:
+[2024.01.28-03.45.36:050][266]LogStaticMesh:   Root: GPU size: 32276 bytes. 1 Pages. 32276.000 bytes per page (98.499% utilization).
+[2024.01.28-03.45.36:050][266]LogStaticMesh:   Streaming: GPU size: 135180 bytes. 2 Pages (2 with relative encoding). 67590.000 bytes per page (51.567% utilization).
+[2024.01.28-03.45.36:050][266]LogStaticMesh:   Page data disk size: 114816 bytes. Fixup data size: 536 bytes.
+[2024.01.28-03.45.36:050][266]LogStaticMesh:   Total GPU size: 167456 bytes, Total disk size: 115352 bytes.
+[2024.01.28-03.45.36:050][266]LogStaticMesh: Encode [0.01s]
+[2024.01.28-03.45.36:050][266]LogStaticMesh: Nanite build [0.24s]
+
+[2024.01.28-03.45.36:055][266]LogStaticMesh: Built static mesh [0.30s] /Game/Environment/table_half_2__1_.table_half_2__1_
+[2024.01.28-03.45.36:093][266]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Bradley Vu/Downloads/ring (1).fbx)
+[2024.01.28-03.45.36:211][266]LogFbx: Loading FBX Scene from ../../../../../../Users/Bradley Vu/Downloads/ring (1).fbx
+[2024.01.28-03.45.36:573][266]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.28-03.45.37:083][266]LogFbx: Display: Triangulating static mesh ring
+[2024.01.28-03.45.38:071][266]LogStaticMesh: Display: Building static mesh ring__1_...
+[2024.01.28-03.45.38:327][266]LogStaticMesh: Adjacency [0.01s], tris: 41084, UVs 2
+[2024.01.28-03.45.38:384][266]LogStaticMesh: Clustering [0.06s]. Ratio: 1.018692
+[2024.01.28-03.45.38:390][266]LogStaticMesh: Leaves [0.01s]
+[2024.01.28-03.45.38:937][266]LogStaticMesh: Reduce [0.55s]
+[2024.01.28-03.45.39:016][266]LogStaticMesh: Fallback 0/1 [0.08s], num tris: 1192
+[2024.01.28-03.45.39:027][266]LogStaticMesh: ConstrainClusters:
+[2024.01.28-03.45.39:028][266]LogStaticMesh:   Input: 670 Clusters, 84275 Triangles and 62743 Vertices
+[2024.01.28-03.45.39:028][266]LogStaticMesh:   Output without splits: 670 Clusters, 84275 Triangles and 63943 Vertices
+[2024.01.28-03.45.39:028][266]LogStaticMesh:   Output with splits: 670 Clusters, 84275 Triangles and 63943 Vertices
+[2024.01.28-03.45.39:029][266]LogStaticMesh: Material Stats - Unique Materials: 5, Fast Path Clusters: 668, Slow Path Clusters: 2, 1 Material: 609, 2 Materials: 48, 3 Materials: 11, At Least 4 Materials: 2
+[2024.01.28-03.45.39:044][266]LogStaticMesh: WritePages:
+[2024.01.28-03.45.39:044][266]LogStaticMesh:   Root: GPU size: 32220 bytes. 1 Pages. 32220.000 bytes per page (98.328% utilization).
+[2024.01.28-03.45.39:044][266]LogStaticMesh:   Streaming: GPU size: 910296 bytes. 7 Pages (7 with relative encoding). 130042.289 bytes per page (99.214% utilization).
+[2024.01.28-03.45.39:044][266]LogStaticMesh:   Page data disk size: 689804 bytes. Fixup data size: 3952 bytes.
+[2024.01.28-03.45.39:044][266]LogStaticMesh:   Total GPU size: 942516 bytes, Total disk size: 693756 bytes.
+[2024.01.28-03.45.39:044][266]LogStaticMesh: Encode [0.03s]
+[2024.01.28-03.45.39:044][266]LogStaticMesh: Nanite build [0.65s]
+
+[2024.01.28-03.45.39:054][266]LogStaticMesh: Built static mesh [0.98s] /Game/Environment/ring__1_.ring__1_
+[2024.01.28-03.45.39:081][266]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Bradley Vu/Downloads/stairs (1).fbx)
+[2024.01.28-03.45.39:090][266]LogFbx: Loading FBX Scene from ../../../../../../Users/Bradley Vu/Downloads/stairs (1).fbx
+[2024.01.28-03.45.39:100][266]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.28-03.45.39:198][266]LogFbx: Display: Triangulating static mesh stairs
+[2024.01.28-03.45.39:212][266]LogStaticMesh: Display: Building static mesh stairs__1_...
+[2024.01.28-03.45.39:219][266]LogStaticMesh: Adjacency [0.00s], tris: 480, UVs 2
+[2024.01.28-03.45.39:219][266]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2024.01.28-03.45.39:219][266]LogStaticMesh: Leaves [0.00s]
+[2024.01.28-03.45.39:240][266]LogStaticMesh: Reduce [0.02s]
+[2024.01.28-03.45.39:253][266]LogStaticMesh: Fallback 0/1 [0.01s], num tris: 256
+[2024.01.28-03.45.39:254][266]LogStaticMesh: ConstrainClusters:
+[2024.01.28-03.45.39:254][266]LogStaticMesh:   Input: 7 Clusters, 858 Triangles and 859 Vertices
+[2024.01.28-03.45.39:254][266]LogStaticMesh:   Output without splits: 7 Clusters, 858 Triangles and 859 Vertices
+[2024.01.28-03.45.39:254][266]LogStaticMesh:   Output with splits: 7 Clusters, 858 Triangles and 859 Vertices
+[2024.01.28-03.45.39:254][266]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 7, Slow Path Clusters: 0, 1 Material: 7, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.01.28-03.45.39:254][266]LogStaticMesh: WritePages:
+[2024.01.28-03.45.39:254][266]LogStaticMesh:   Root: GPU size: 13272 bytes. 1 Pages. 13272.000 bytes per page (40.503% utilization).
+[2024.01.28-03.45.39:254][266]LogStaticMesh:   Streaming: 0 bytes.
+[2024.01.28-03.45.39:254][266]LogStaticMesh:   Page data disk size: 10692 bytes. Fixup data size: 56 bytes.
+[2024.01.28-03.45.39:254][266]LogStaticMesh:   Total GPU size: 13272 bytes, Total disk size: 10748 bytes.
+[2024.01.28-03.45.39:254][266]LogStaticMesh: Encode [0.00s]
+[2024.01.28-03.45.39:254][266]LogStaticMesh: Nanite build [0.03s]
+
+[2024.01.28-03.45.39:257][266]LogStaticMesh: Built static mesh [0.05s] /Game/Environment/stairs__1_.stairs__1_
+[2024.01.28-03.45.39:295][266]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Bradley Vu/Downloads/ladder (1).fbx)
+[2024.01.28-03.45.39:324][266]LogFbx: Loading FBX Scene from ../../../../../../Users/Bradley Vu/Downloads/ladder (1).fbx
+[2024.01.28-03.45.39:403][266]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.28-03.45.39:530][266]LogFbx: Display: Triangulating static mesh ladder
+[2024.01.28-03.45.39:740][266]LogStaticMesh: Display: Building static mesh ladder__1_...
+[2024.01.28-03.45.39:815][266]LogStaticMesh: Adjacency [0.00s], tris: 9036, UVs 2
+[2024.01.28-03.45.39:839][266]LogStaticMesh: Clustering [0.02s]. Ratio: 1.014084
+[2024.01.28-03.45.39:841][266]LogStaticMesh: Leaves [0.00s]
+[2024.01.28-03.45.40:147][266]LogStaticMesh: Reduce [0.31s]
+[2024.01.28-03.45.40:228][266]LogStaticMesh: Fallback 0/1 [0.08s], num tris: 844
+[2024.01.28-03.45.40:233][266]LogStaticMesh: ConstrainClusters:
+[2024.01.28-03.45.40:233][266]LogStaticMesh:   Input: 148 Clusters, 18610 Triangles and 21126 Vertices
+[2024.01.28-03.45.40:233][266]LogStaticMesh:   Output without splits: 148 Clusters, 18610 Triangles and 21144 Vertices
+[2024.01.28-03.45.40:233][266]LogStaticMesh:   Output with splits: 151 Clusters, 18610 Triangles and 21147 Vertices
+[2024.01.28-03.45.40:234][266]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 151, Slow Path Clusters: 0, 1 Material: 151, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.01.28-03.45.40:242][266]LogStaticMesh: WritePages:
+[2024.01.28-03.45.40:242][266]LogStaticMesh:   Root: GPU size: 32572 bytes. 1 Pages. 32572.000 bytes per page (99.402% utilization).
+[2024.01.28-03.45.40:242][266]LogStaticMesh:   Streaming: GPU size: 289556 bytes. 3 Pages (3 with relative encoding). 96518.664 bytes per page (73.638% utilization).
+[2024.01.28-03.45.40:242][266]LogStaticMesh:   Page data disk size: 234264 bytes. Fixup data size: 864 bytes.
+[2024.01.28-03.45.40:242][266]LogStaticMesh:   Total GPU size: 322128 bytes, Total disk size: 235128 bytes.
+[2024.01.28-03.45.40:242][266]LogStaticMesh: Encode [0.01s]
+[2024.01.28-03.45.40:242][266]LogStaticMesh: Nanite build [0.40s]
+
+[2024.01.28-03.45.40:248][266]LogStaticMesh: Built static mesh [0.51s] /Game/Environment/ladder__1_.ladder__1_
+[2024.01.28-03.45.40:282][266]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Bradley Vu/Downloads/chair (1).fbx)
+[2024.01.28-03.45.40:309][266]LogFbx: Loading FBX Scene from ../../../../../../Users/Bradley Vu/Downloads/chair (1).fbx
+[2024.01.28-03.45.40:381][266]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.28-03.45.40:486][266]LogFbx: Display: Triangulating static mesh chair
+[2024.01.28-03.45.40:686][266]LogStaticMesh: Display: Building static mesh chair__1_...
+[2024.01.28-03.45.40:751][266]LogStaticMesh: Adjacency [0.00s], tris: 8244, UVs 2
+[2024.01.28-03.45.40:765][266]LogStaticMesh: Clustering [0.01s]. Ratio: 1.030769
+[2024.01.28-03.45.40:767][266]LogStaticMesh: Leaves [0.00s]
+[2024.01.28-03.45.41:044][266]LogStaticMesh: Reduce [0.28s]
+[2024.01.28-03.45.41:114][266]LogStaticMesh: Fallback 0/1 [0.07s], num tris: 792
+[2024.01.28-03.45.41:118][266]LogStaticMesh: ConstrainClusters:
+[2024.01.28-03.45.41:118][266]LogStaticMesh:   Input: 137 Clusters, 17060 Triangles and 16514 Vertices
+[2024.01.28-03.45.41:118][266]LogStaticMesh:   Output without splits: 137 Clusters, 17060 Triangles and 16526 Vertices
+[2024.01.28-03.45.41:118][266]LogStaticMesh:   Output with splits: 137 Clusters, 17060 Triangles and 16526 Vertices
+[2024.01.28-03.45.41:118][266]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 137, Slow Path Clusters: 0, 1 Material: 137, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.01.28-03.45.41:124][266]LogStaticMesh: WritePages:
+[2024.01.28-03.45.41:124][266]LogStaticMesh:   Root: GPU size: 31924 bytes. 1 Pages. 31924.000 bytes per page (97.424% utilization).
+[2024.01.28-03.45.41:124][266]LogStaticMesh:   Streaming: GPU size: 222060 bytes. 2 Pages (2 with relative encoding). 111030.000 bytes per page (84.709% utilization).
+[2024.01.28-03.45.41:124][266]LogStaticMesh:   Page data disk size: 186644 bytes. Fixup data size: 736 bytes.
+[2024.01.28-03.45.41:124][266]LogStaticMesh:   Total GPU size: 253984 bytes, Total disk size: 187380 bytes.
+[2024.01.28-03.45.41:124][266]LogStaticMesh: Encode [0.01s]
+[2024.01.28-03.45.41:124][266]LogStaticMesh: Nanite build [0.36s]
+
+[2024.01.28-03.45.41:131][266]LogStaticMesh: Built static mesh [0.45s] /Game/Environment/chair__1_.chair__1_
+[2024.01.28-03.45.44:338][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.28-03.45.44:346][383]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.027
+[2024.01.28-03.45.44:346][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/steel_cage__1_] ([1] browsable assets)...
+[2024.01.28-03.45.44:346][383]LogMaterial: Display: Material /Game/Environment/cage_metal.cage_metal needed to have new flag set bUsedWithNanite !
+[2024.01.28-03.45.44:538][383]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment/steel_cage__1_.steel_cage__1_]
+[2024.01.28-03.45.44:538][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/steel_cage__1_]
+[2024.01.28-03.45.44:688][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/steel_cage__1__Auto5
+[2024.01.28-03.45.44:688][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/steel_cage__1__Auto543BF2DCA4B86B3C90FAC8DBFB6811906.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/steel_cage__1__Auto5.uasset'
+[2024.01.28-03.45.44:690][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/cage_metal] ([1] browsable assets)...
+[2024.01.28-03.45.44:705][383]LogShaderCompilers: Display: ================================================
+[2024.01.28-03.45.44:705][383]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.28-03.45.44:705][383]LogShaderCompilers: Display: Total job queries 1,314, among them cache hits 1,218 (92.69%)
+[2024.01.28-03.45.44:705][383]LogShaderCompilers: Display: Tracking 86 distinct input hashes that result in 47 distinct outputs (54.65%)
+[2024.01.28-03.45.44:705][383]LogShaderCompilers: Display: RAM used: 2.19 MiB of 819.20 MiB budget. Usage: 0.27%
+[2024.01.28-03.45.44:705][383]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.28-03.45.44:705][383]LogShaderCompilers: Display: Shaders Compiled: 10
+[2024.01.28-03.45.44:705][383]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2024.01.28-03.45.44:705][383]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display: Job execution time: average 4.44 s, max 5.05 s
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display: Job life time (pending + execution): average 4.46 s, max 5.07
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display: Shader code size: average 55.619 KiB, min 38.938 KiB, max 70.668 KiB
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.07 s
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 2.00 jobs/batch
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display: Average processing rate: 1.97 jobs/sec
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display: Total thread time: 16.083 s
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display: Total thread preprocess time: 0.757 s
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display: Percentage time preprocessing: 4.70%
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display: Effective parallelization: 3.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 2.74 sec, max 2.74 sec, min 2.74 sec)
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 1.90 sec, max 1.90 sec, min 1.90 sec)
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 1.87 sec, max 1.87 sec, min 1.87 sec)
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.84 sec, max 1.84 sec, min 1.84 sec)
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.71 sec, max 1.71 sec, min 1.71 sec)
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 17.01% of total time (compiled    1 times, average 2.74 sec, max 2.74 sec, min 2.74 sec)
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 11.81% of total time (compiled    1 times, average 1.90 sec, max 1.90 sec, min 1.90 sec)
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 11.61% of total time (compiled    1 times, average 1.87 sec, max 1.87 sec, min 1.87 sec)
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 11.43% of total time (compiled    1 times, average 1.84 sec, max 1.84 sec, min 1.84 sec)
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 10.64% of total time (compiled    1 times, average 1.71 sec, max 1.71 sec, min 1.71 sec)
+[2024.01.28-03.45.44:706][383]LogShaderCompilers: Display: ================================================
+[2024.01.28-03.45.44:726][383]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/cage_metal.cage_metal]
+[2024.01.28-03.45.44:726][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/cage_metal]
+[2024.01.28-03.45.44:729][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/cage_metal_Auto5
+[2024.01.28-03.45.44:729][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/cage_metal_Auto5996502A14830D156910E89A0E0F6CB1B.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/cage_metal_Auto5.uasset'
+[2024.01.28-03.45.44:730][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/table_half_1__1_] ([1] browsable assets)...
+[2024.01.28-03.45.44:730][383]LogMaterial: Display: Material /Game/Environment/table_wood.table_wood needed to have new flag set bUsedWithNanite !
+[2024.01.28-03.45.44:753][383]LogMaterial: Display: Material /Game/Environment/metal_legs.metal_legs needed to have new flag set bUsedWithNanite !
+[2024.01.28-03.45.44:790][383]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment/table_half_1__1_.table_half_1__1_]
+[2024.01.28-03.45.44:790][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/table_half_1__1_]
+[2024.01.28-03.45.44:797][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/table_half_1__1__Auto5
+[2024.01.28-03.45.44:797][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/table_half_1__1__Auto5BD673AA24258A2026E285DB06196D1C0.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/table_half_1__1__Auto5.uasset'
+[2024.01.28-03.45.44:799][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/table_wood] ([1] browsable assets)...
+[2024.01.28-03.45.44:811][383]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/table_wood.table_wood]
+[2024.01.28-03.45.44:811][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/table_wood]
+[2024.01.28-03.45.44:813][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/table_wood_Auto5
+[2024.01.28-03.45.44:814][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/table_wood_Auto5016D7589431271DD230869BFE09C4126.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/table_wood_Auto5.uasset'
+[2024.01.28-03.45.44:815][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/metal_legs] ([1] browsable assets)...
+[2024.01.28-03.45.44:827][383]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/metal_legs.metal_legs]
+[2024.01.28-03.45.44:827][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/metal_legs]
+[2024.01.28-03.45.44:829][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/metal_legs_Auto5
+[2024.01.28-03.45.44:829][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/metal_legs_Auto5363BDC3B4ECF903C35AAE5B96CF688F4.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/metal_legs_Auto5.uasset'
+[2024.01.28-03.45.44:830][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/table_half_2__1_] ([1] browsable assets)...
+[2024.01.28-03.45.44:840][383]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment/table_half_2__1_.table_half_2__1_]
+[2024.01.28-03.45.44:840][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/table_half_2__1_]
+[2024.01.28-03.45.44:846][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/table_half_2__1__Auto5
+[2024.01.28-03.45.44:846][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/table_half_2__1__Auto5A844A436473941EFA97466B86195580A.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/table_half_2__1__Auto5.uasset'
+[2024.01.28-03.45.44:847][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/ring__1_] ([1] browsable assets)...
+[2024.01.28-03.45.44:848][383]LogMaterial: Display: Material /Game/Environment/box.box needed to have new flag set bUsedWithNanite !
+[2024.01.28-03.45.44:869][383]LogMaterial: Display: Material /Game/Environment/mat.mat needed to have new flag set bUsedWithNanite !
+[2024.01.28-03.45.44:890][383]LogMaterial: Display: Material /Game/Environment/rope.rope needed to have new flag set bUsedWithNanite !
+[2024.01.28-03.45.44:912][383]LogMaterial: Display: Material /Game/Environment/padded_corner.padded_corner needed to have new flag set bUsedWithNanite !
+[2024.01.28-03.45.44:933][383]LogMaterial: Display: Material /Game/Environment/metal_pole.metal_pole needed to have new flag set bUsedWithNanite !
+[2024.01.28-03.45.44:964][383]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment/ring__1_.ring__1_]
+[2024.01.28-03.45.44:964][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/ring__1_]
+[2024.01.28-03.45.44:985][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/ring__1__Auto5
+[2024.01.28-03.45.44:985][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/ring__1__Auto5C0236A944A88525DF7AF6296892945D2.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/ring__1__Auto5.uasset'
+[2024.01.28-03.45.44:986][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/box] ([1] browsable assets)...
+[2024.01.28-03.45.45:000][383]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/box.box]
+[2024.01.28-03.45.45:000][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/box]
+[2024.01.28-03.45.45:002][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/box_Auto5
+[2024.01.28-03.45.45:002][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/box_Auto5E581BBA544C6D962F45971B82A72AECD.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/box_Auto5.uasset'
+[2024.01.28-03.45.45:003][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/mat] ([1] browsable assets)...
+[2024.01.28-03.45.45:015][383]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/mat.mat]
+[2024.01.28-03.45.45:015][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/mat]
+[2024.01.28-03.45.45:017][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/mat_Auto5
+[2024.01.28-03.45.45:017][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/mat_Auto5A6A9EFFF44DCB1CC8AA9FE9714273D17.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/mat_Auto5.uasset'
+[2024.01.28-03.45.45:018][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/rope] ([1] browsable assets)...
+[2024.01.28-03.45.45:030][383]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/rope.rope]
+[2024.01.28-03.45.45:030][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/rope]
+[2024.01.28-03.45.45:032][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/rope_Auto5
+[2024.01.28-03.45.45:032][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/rope_Auto560FC942946A5FFB94CA856A0857CE571.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/rope_Auto5.uasset'
+[2024.01.28-03.45.45:033][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/padded_corner] ([1] browsable assets)...
+[2024.01.28-03.45.45:045][383]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/padded_corner.padded_corner]
+[2024.01.28-03.45.45:045][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/padded_corner]
+[2024.01.28-03.45.45:047][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/padded_corner_Auto5
+[2024.01.28-03.45.45:047][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/padded_corner_Auto550DE9C2D48C57678F49608941DAACE8E.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/padded_corner_Auto5.uasset'
+[2024.01.28-03.45.45:048][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/metal_pole] ([1] browsable assets)...
+[2024.01.28-03.45.45:060][383]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/metal_pole.metal_pole]
+[2024.01.28-03.45.45:060][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/metal_pole]
+[2024.01.28-03.45.45:062][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/metal_pole_Auto5
+[2024.01.28-03.45.45:062][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/metal_pole_Auto5780B3AA9437DB82A17755A86B9AF2CEF.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/metal_pole_Auto5.uasset'
+[2024.01.28-03.45.45:063][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/stairs__1_] ([1] browsable assets)...
+[2024.01.28-03.45.45:063][383]LogMaterial: Display: Material /Game/Environment/stair_metal.stair_metal needed to have new flag set bUsedWithNanite !
+[2024.01.28-03.45.45:093][383]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment/stairs__1_.stairs__1_]
+[2024.01.28-03.45.45:093][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/stairs__1_]
+[2024.01.28-03.45.45:097][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/stairs__1__Auto5
+[2024.01.28-03.45.45:097][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/stairs__1__Auto5F0EA4B564E85A915258085A162E1C9FC.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/stairs__1__Auto5.uasset'
+[2024.01.28-03.45.45:099][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/stair_metal] ([1] browsable assets)...
+[2024.01.28-03.45.45:111][383]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/stair_metal.stair_metal]
+[2024.01.28-03.45.45:111][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/stair_metal]
+[2024.01.28-03.45.45:113][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/stair_metal_Auto5
+[2024.01.28-03.45.45:113][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/stair_metal_Auto51369892B4F4B8C02BEDBA4B43900A228.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/stair_metal_Auto5.uasset'
+[2024.01.28-03.45.45:114][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/ladder__1_] ([1] browsable assets)...
+[2024.01.28-03.45.45:114][383]LogMaterial: Display: Material /Game/Environment/ladder_metal.ladder_metal needed to have new flag set bUsedWithNanite !
+[2024.01.28-03.45.45:144][383]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment/ladder__1_.ladder__1_]
+[2024.01.28-03.45.45:144][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/ladder__1_]
+[2024.01.28-03.45.45:153][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/ladder__1__Auto5
+[2024.01.28-03.45.45:153][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/ladder__1__Auto572EE002643B2BF31E253C6AF24CF66B9.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/ladder__1__Auto5.uasset'
+[2024.01.28-03.45.45:155][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/ladder_metal] ([1] browsable assets)...
+[2024.01.28-03.45.45:167][383]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/ladder_metal.ladder_metal]
+[2024.01.28-03.45.45:167][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/ladder_metal]
+[2024.01.28-03.45.45:169][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/ladder_metal_Auto5
+[2024.01.28-03.45.45:169][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/ladder_metal_Auto5D9B4400C4009FE77E625F5A31AD0B583.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/ladder_metal_Auto5.uasset'
+[2024.01.28-03.45.45:170][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/chair__1_] ([1] browsable assets)...
+[2024.01.28-03.45.45:170][383]LogMaterial: Display: Material /Game/Environment/chair_metal.chair_metal needed to have new flag set bUsedWithNanite !
+[2024.01.28-03.45.45:200][383]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment/chair__1_.chair__1_]
+[2024.01.28-03.45.45:200][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/chair__1_]
+[2024.01.28-03.45.45:209][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/chair__1__Auto5
+[2024.01.28-03.45.45:210][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/chair__1__Auto50072BC204FA50697A60DF9933E77B8FC.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/chair__1__Auto5.uasset'
+[2024.01.28-03.45.45:211][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/chair_metal] ([1] browsable assets)...
+[2024.01.28-03.45.45:222][383]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/chair_metal.chair_metal]
+[2024.01.28-03.45.45:222][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/chair_metal]
+[2024.01.28-03.45.45:224][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/chair_metal_Auto5
+[2024.01.28-03.45.45:224][383]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/chair_metal_Auto5E2CD224541A73C45900B739210081304.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Autosaves/Game/Environment/chair_metal_Auto5.uasset'
+[2024.01.28-03.45.45:225][383]LogFileHelpers: Auto-saving content packages took 0.880
+[2024.01.28-03.46.02:378][ 84]LogSlate: Window 'Message Log' being destroyed
+[2024.01.28-03.46.02:399][ 84]LogSlate: Window 'Message Log' being destroyed
+[2024.01.28-03.46.11:919][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-03.46.11:983][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/chair_metal" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/chair_metal.uasset" SILENT=true
+[2024.01.28-03.46.11:984][503]LogSavePackage: Moving output files for package: /Game/Environment/chair_metal
+[2024.01.28-03.46.11:984][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/chair_metalA1FC2E394A3AD9EF54EF70847C10C944.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/chair_metal.uasset'
+[2024.01.28-03.46.11:986][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/chair__1_" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/chair__1_.uasset" SILENT=true
+[2024.01.28-03.46.11:995][503]LogSavePackage: Moving output files for package: /Game/Environment/chair__1_
+[2024.01.28-03.46.11:996][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/chair__1_FEFB6D1044D7739B0FE4148F8EF5701C.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/chair__1_.uasset'
+[2024.01.28-03.46.11:999][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/ladder_metal" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/ladder_metal.uasset" SILENT=true
+[2024.01.28-03.46.12:001][503]LogSavePackage: Moving output files for package: /Game/Environment/ladder_metal
+[2024.01.28-03.46.12:001][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/ladder_metal8B8EA76949EDC02BA3AFC9AF53894D49.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/ladder_metal.uasset'
+[2024.01.28-03.46.12:003][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/ladder__1_" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/ladder__1_.uasset" SILENT=true
+[2024.01.28-03.46.12:011][503]LogSavePackage: Moving output files for package: /Game/Environment/ladder__1_
+[2024.01.28-03.46.12:011][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/ladder__1_D23D355049AE56832E50D3B6FBF24799.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/ladder__1_.uasset'
+[2024.01.28-03.46.12:013][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/stair_metal" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/stair_metal.uasset" SILENT=true
+[2024.01.28-03.46.12:015][503]LogSavePackage: Moving output files for package: /Game/Environment/stair_metal
+[2024.01.28-03.46.12:015][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/stair_metal6CA10487477F88A4625043B68876B03F.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/stair_metal.uasset'
+[2024.01.28-03.46.12:016][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/stairs__1_" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/stairs__1_.uasset" SILENT=true
+[2024.01.28-03.46.12:020][503]LogSavePackage: Moving output files for package: /Game/Environment/stairs__1_
+[2024.01.28-03.46.12:020][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/stairs__1_A4F7C1BD4E5FC0325D76E3A92900201C.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/stairs__1_.uasset'
+[2024.01.28-03.46.12:022][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/metal_pole" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/metal_pole.uasset" SILENT=true
+[2024.01.28-03.46.12:023][503]LogSavePackage: Moving output files for package: /Game/Environment/metal_pole
+[2024.01.28-03.46.12:023][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/metal_pole03B5A86344DA08C80047088866A51CA2.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/metal_pole.uasset'
+[2024.01.28-03.46.12:025][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/padded_corner" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/padded_corner.uasset" SILENT=true
+[2024.01.28-03.46.12:026][503]LogSavePackage: Moving output files for package: /Game/Environment/padded_corner
+[2024.01.28-03.46.12:026][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/padded_cornerCC4AD4F5443B0508AF12529C81FB9582.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/padded_corner.uasset'
+[2024.01.28-03.46.12:028][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/rope" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/rope.uasset" SILENT=true
+[2024.01.28-03.46.12:029][503]LogSavePackage: Moving output files for package: /Game/Environment/rope
+[2024.01.28-03.46.12:029][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/rope4604D20B4D935C2FCC410194D90805A8.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/rope.uasset'
+[2024.01.28-03.46.12:030][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/mat" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/mat.uasset" SILENT=true
+[2024.01.28-03.46.12:032][503]LogSavePackage: Moving output files for package: /Game/Environment/mat
+[2024.01.28-03.46.12:032][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/matE7A1C2654D55F1CEDD55909BB3859C7D.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/mat.uasset'
+[2024.01.28-03.46.12:034][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/box" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/box.uasset" SILENT=true
+[2024.01.28-03.46.12:035][503]LogSavePackage: Moving output files for package: /Game/Environment/box
+[2024.01.28-03.46.12:035][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/box77C8EB9E466347A1C19970BCF6E84774.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/box.uasset'
+[2024.01.28-03.46.12:037][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/ring__1_" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/ring__1_.uasset" SILENT=true
+[2024.01.28-03.46.12:057][503]LogSavePackage: Moving output files for package: /Game/Environment/ring__1_
+[2024.01.28-03.46.12:057][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/ring__1_9CE5B09444F9CF70861EFC941E0E0C54.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/ring__1_.uasset'
+[2024.01.28-03.46.12:059][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/table_half_2__1_" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/table_half_2__1_.uasset" SILENT=true
+[2024.01.28-03.46.12:065][503]LogSavePackage: Moving output files for package: /Game/Environment/table_half_2__1_
+[2024.01.28-03.46.12:065][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/table_half_2__1_7976A57C42403C8FBA0E859DE32DE038.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/table_half_2__1_.uasset'
+[2024.01.28-03.46.12:067][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/metal_legs" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/metal_legs.uasset" SILENT=true
+[2024.01.28-03.46.12:069][503]LogSavePackage: Moving output files for package: /Game/Environment/metal_legs
+[2024.01.28-03.46.12:069][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/metal_legs7FB72F074E2F81A1AE18F396E259F9D3.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/metal_legs.uasset'
+[2024.01.28-03.46.12:070][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/table_wood" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/table_wood.uasset" SILENT=true
+[2024.01.28-03.46.12:071][503]LogSavePackage: Moving output files for package: /Game/Environment/table_wood
+[2024.01.28-03.46.12:072][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/table_wood726FACDF48D6B4800A5E7CBFAED2F240.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/table_wood.uasset'
+[2024.01.28-03.46.12:073][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/table_half_1__1_" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/table_half_1__1_.uasset" SILENT=true
+[2024.01.28-03.46.12:080][503]LogSavePackage: Moving output files for package: /Game/Environment/table_half_1__1_
+[2024.01.28-03.46.12:080][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/table_half_1__1_58DE6E4C468F0ED6EF2778B3D6A50194.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/table_half_1__1_.uasset'
+[2024.01.28-03.46.12:081][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/cage_metal" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/cage_metal.uasset" SILENT=true
+[2024.01.28-03.46.12:083][503]LogSavePackage: Moving output files for package: /Game/Environment/cage_metal
+[2024.01.28-03.46.12:083][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/cage_metal32F9D9C54A2935982CCEFE8C241B8047.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/cage_metal.uasset'
+[2024.01.28-03.46.12:084][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/steel_cage__1_" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/steel_cage__1_.uasset" SILENT=true
+[2024.01.28-03.46.12:228][503]LogSavePackage: Moving output files for package: /Game/Environment/steel_cage__1_
+[2024.01.28-03.46.12:228][503]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/steel_cage__1_9EA288DF49022E7C4111148D7705CDF9.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/steel_cage__1_.uasset'
+[2024.01.28-03.46.12:237][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 317 ms (total: 18.2 sec)
+[2024.01.28-03.46.12:242][503]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Environment/chair_metal.chair_metal
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Environment/chair__1_.chair__1_
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Environment/ladder_metal.ladder_metal
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Environment/ladder__1_.ladder__1_
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Environment/stair_metal.stair_metal
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Environment/stairs__1_.stairs__1_
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Environment/metal_pole.metal_pole
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Environment/padded_corner.padded_corner
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Environment/rope.rope
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Environment/mat.mat
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Environment/box.box
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Environment/ring__1_.ring__1_
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Environment/table_half_2__1_.table_half_2__1_
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Environment/metal_legs.metal_legs
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Environment/table_wood.table_wood
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Environment/table_half_1__1_.table_half_1__1_
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Environment/cage_metal.cage_metal
+[2024.01.28-03.46.12:242][503]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Environment/steel_cage__1_.steel_cage__1_
+[2024.01.28-03.46.50:616][229]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.01.28-03.46.51:782][269]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.28-03.46.51:808][269]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.28-03.46.51:830][270]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.28-03.46.55:047][390]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2024.01.28-03.46.55:049][390]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.28-03.52.18:970][571]LogInterchangeEngine: [Pending] Importing
+[2024.01.28-03.52.18:970][571]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/box_BaseColor_Utility - sRGB - Texture.png]
+[2024.01.28-03.52.18:972][571]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.01.28-03.52.18:972][571]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/box_Height_Utility - Raw.png]
+[2024.01.28-03.52.18:973][571]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.01.28-03.52.18:973][571]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/box_Metallic_Utility - Raw.png]
+[2024.01.28-03.52.18:974][571]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.01.28-03.52.18:974][571]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/box_Normal_Utility - Raw.png]
+[2024.01.28-03.52.18:974][571]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.01.28-03.52.18:974][571]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/box_Roughness_Utility - Raw.png]
+[2024.01.28-03.52.18:975][571]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.18:975][571]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/cage_metal_BaseColor_Utility - sRGB - Texture.png]
+[2024.01.28-03.52.18:976][571]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.01.28-03.52.18:976][571]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/cage_metal_Height_Utility - Raw.png]
+[2024.01.28-03.52.18:976][571]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.01.28-03.52.18:977][571]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.01.28-03.52.18:978][571]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.01.28-03.52.18:978][571]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.01.28-03.52.18:979][571]LogInterchangeEngine: [Pending] Importing -  (12)
+[2024.01.28-03.52.18:979][571]LogInterchangeEngine: [Pending] Importing -  (13)
+[2024.01.28-03.52.18:980][571]LogInterchangeEngine: [Pending] Importing -  (14)
+[2024.01.28-03.52.18:980][571]LogInterchangeEngine: [Pending] Importing -  (15)
+[2024.01.28-03.52.18:981][571]LogInterchangeEngine: [Pending] Importing -  (16)
+[2024.01.28-03.52.18:982][571]LogInterchangeEngine: [Pending] Importing -  (17)
+[2024.01.28-03.52.18:982][571]LogInterchangeEngine: [Pending] Importing -  (18)
+[2024.01.28-03.52.18:983][571]LogInterchangeEngine: [Pending] Importing -  (19)
+[2024.01.28-03.52.18:983][571]LogInterchangeEngine: [Pending] Importing -  (20)
+[2024.01.28-03.52.18:984][571]LogInterchangeEngine: [Pending] Importing -  (21)
+[2024.01.28-03.52.18:985][571]LogInterchangeEngine: [Pending] Importing -  (22)
+[2024.01.28-03.52.18:985][571]LogInterchangeEngine: [Pending] Importing -  (23)
+[2024.01.28-03.52.18:986][571]LogInterchangeEngine: [Pending] Importing -  (24)
+[2024.01.28-03.52.18:987][571]LogInterchangeEngine: [Pending] Importing -  (25)
+[2024.01.28-03.52.18:987][571]LogInterchangeEngine: [Pending] Importing -  (26)
+[2024.01.28-03.52.18:988][571]LogInterchangeEngine: [Pending] Importing -  (27)
+[2024.01.28-03.52.18:988][571]LogInterchangeEngine: [Pending] Importing -  (28)
+[2024.01.28-03.52.18:989][571]LogInterchangeEngine: [Pending] Importing -  (29)
+[2024.01.28-03.52.18:990][571]LogInterchangeEngine: [Pending] Importing -  (30)
+[2024.01.28-03.52.18:990][571]LogInterchangeEngine: [Pending] Importing -  (31)
+[2024.01.28-03.52.18:991][571]LogInterchangeEngine: [Pending] Importing -  (32)
+[2024.01.28-03.52.18:992][571]LogInterchangeEngine: [Pending] Importing -  (33)
+[2024.01.28-03.52.18:992][571]LogInterchangeEngine: [Pending] Importing -  (34)
+[2024.01.28-03.52.18:993][571]LogInterchangeEngine: [Pending] Importing -  (35)
+[2024.01.28-03.52.18:994][571]LogInterchangeEngine: [Pending] Importing -  (36)
+[2024.01.28-03.52.18:994][571]LogInterchangeEngine: [Pending] Importing -  (37)
+[2024.01.28-03.52.18:995][571]LogInterchangeEngine: [Pending] Importing -  (38)
+[2024.01.28-03.52.18:995][571]LogInterchangeEngine: [Pending] Importing -  (39)
+[2024.01.28-03.52.18:996][571]LogInterchangeEngine: [Pending] Importing -  (40)
+[2024.01.28-03.52.18:996][571]LogInterchangeEngine: [Pending] Importing -  (41)
+[2024.01.28-03.52.18:997][571]LogInterchangeEngine: [Pending] Importing -  (42)
+[2024.01.28-03.52.18:997][571]LogInterchangeEngine: [Pending] Importing -  (43)
+[2024.01.28-03.52.18:998][571]LogInterchangeEngine: [Pending] Importing -  (44)
+[2024.01.28-03.52.18:999][571]LogInterchangeEngine: [Pending] Importing -  (45)
+[2024.01.28-03.52.18:999][571]LogInterchangeEngine: [Pending] Importing -  (46)
+[2024.01.28-03.52.19:000][571]LogInterchangeEngine: [Pending] Importing -  (47)
+[2024.01.28-03.52.19:000][571]LogInterchangeEngine: [Pending] Importing -  (48)
+[2024.01.28-03.52.19:001][571]LogInterchangeEngine: [Pending] Importing -  (49)
+[2024.01.28-03.52.19:002][571]LogInterchangeEngine: [Pending] Importing -  (50)
+[2024.01.28-03.52.19:002][571]LogInterchangeEngine: [Pending] Importing -  (51)
+[2024.01.28-03.52.19:003][571]LogInterchangeEngine: [Pending] Importing -  (52)
+[2024.01.28-03.52.19:003][571]LogInterchangeEngine: [Pending] Importing -  (53)
+[2024.01.28-03.52.19:004][571]LogInterchangeEngine: [Pending] Importing -  (54)
+[2024.01.28-03.52.19:004][571]LogInterchangeEngine: [Pending] Importing -  (55)
+[2024.01.28-03.52.19:005][571]LogInterchangeEngine: [Pending] Importing -  (56)
+[2024.01.28-03.52.19:005][571]LogInterchangeEngine: [Pending] Importing -  (57)
+[2024.01.28-03.52.19:007][571]LogInterchangeEngine: [Pending] Importing -  (58)
+[2024.01.28-03.52.19:007][571]LogInterchangeEngine: [Pending] Importing -  (59)
+[2024.01.28-03.52.19:008][571]LogInterchangeEngine: [Pending] Importing -  (60)
+[2024.01.28-03.52.19:009][571]LogInterchangeEngine: [Pending] Importing -  (61)
+[2024.01.28-03.52.19:010][571]LogInterchangeEngine: [Pending] Importing -  (62)
+[2024.01.28-03.52.19:010][571]LogInterchangeEngine: [Pending] Importing -  (63)
+[2024.01.28-03.52.19:011][571]LogInterchangeEngine: [Pending] Importing -  (64)
+[2024.01.28-03.52.19:012][571]LogInterchangeEngine: [Pending] Importing -  (65)
+[2024.01.28-03.52.19:065][572]LogInterchangeEngine: [Pending] Importing -  (65)
+[2024.01.28-03.52.19:132][573]LogTexture: Display: Building textures: /Game/Environment/Textures/box_Metallic_Utility_-_Raw.box_Metallic_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.19:133][573]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.19:133][573]LogInterchangeEngine: [Pending] Importing -  (64)
+[2024.01.28-03.52.19:134][573]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/cage_metal_Metallic_Utility - Raw.png]
+[2024.01.28-03.52.19:134][573]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.19:134][573]LogInterchangeEngine: [Pending] Importing -  (63)
+[2024.01.28-03.52.19:134][573]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/cage_metal_Normal_Utility - Raw.png]
+[2024.01.28-03.52.19:149][573]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.19:149][573]LogInterchangeEngine: [Pending] Importing -  (62)
+[2024.01.28-03.52.19:150][573]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/cage_metal_Roughness_Utility - Raw.png]
+[2024.01.28-03.52.19:150][573]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.19:150][573]LogInterchangeEngine: [Pending] Importing -  (61)
+[2024.01.28-03.52.19:150][573]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/chair_chair_metal_BaseColor_Utility - sRGB - Texture.png]
+[2024.01.28-03.52.19:164][573]LogTexture: Display: Building textures: /Game/Environment/Textures/box_Height_Utility_-_Raw.box_Height_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.19:164][573]LogTexture: Display: Building textures: /Game/Environment/Textures/box_Roughness_Utility_-_Raw.box_Roughness_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.19:185][573]LogTexture: Display: Building textures: /Game/Environment/Textures/cage_metal_Height_Utility_-_Raw.cage_metal_Height_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.19:526][575]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.28-03.52.19:550][576]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.19:550][576]LogInterchangeEngine: [Pending] Importing -  (60)
+[2024.01.28-03.52.19:550][576]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/chair_chair_metal_Height_Utility - Raw.png]
+[2024.01.28-03.52.19:551][576]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.19:551][576]LogInterchangeEngine: [Pending] Importing -  (59)
+[2024.01.28-03.52.19:551][576]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/chair_chair_metal_Metallic_Utility - Raw.png]
+[2024.01.28-03.52.19:551][576]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.19:551][576]LogInterchangeEngine: [Pending] Importing -  (58)
+[2024.01.28-03.52.19:552][576]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/chair_chair_metal_Normal_Utility - Raw.png]
+[2024.01.28-03.52.19:675][576]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.19:676][576]LogInterchangeEngine: [Pending] Importing -  (57)
+[2024.01.28-03.52.19:676][576]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/chair_chair_metal_Roughness_Utility - Raw.png]
+[2024.01.28-03.52.19:676][576]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.19:676][576]LogInterchangeEngine: [Pending] Importing -  (56)
+[2024.01.28-03.52.19:676][576]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/concrete_BaseColor_Utility - sRGB - Texture.png]
+[2024.01.28-03.52.19:845][578]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.28-03.52.20:076][580]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.20:076][580]LogInterchangeEngine: [Pending] Importing -  (55)
+[2024.01.28-03.52.20:076][580]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/concrete_Height_Utility - Raw.png]
+[2024.01.28-03.52.20:076][580]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.20:076][580]LogInterchangeEngine: [Pending] Importing -  (54)
+[2024.01.28-03.52.20:076][580]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/concrete_Metallic_Utility - Raw.png]
+[2024.01.28-03.52.20:163][581]LogTexture: Display: Building textures: /Game/Environment/Textures/cage_metal_Metallic_Utility_-_Raw.cage_metal_Metallic_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.20:183][582]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.20:183][582]LogInterchangeEngine: [Pending] Importing -  (53)
+[2024.01.28-03.52.20:184][582]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/concrete_Normal_Utility - Raw.png]
+[2024.01.28-03.52.20:197][582]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.20:197][582]LogInterchangeEngine: [Pending] Importing -  (52)
+[2024.01.28-03.52.20:198][582]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/concrete_Roughness_Utility - Raw.png]
+[2024.01.28-03.52.20:198][582]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.20:198][582]LogInterchangeEngine: [Pending] Importing -  (51)
+[2024.01.28-03.52.20:198][582]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/ladder_ladder_metal_BaseColor_Utility - sRGB - Texture.png]
+[2024.01.28-03.52.20:231][582]LogTexture: Display: Building textures: /Game/Environment/Textures/box_Normal_Utility_-_Raw.box_Normal_Utility_-_Raw (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.20:261][582]LogTexture: Display: Building textures: /Game/Environment/Textures/box_BaseColor_Utility_-_sRGB_-_Texture.box_BaseColor_Utility_-_sRGB_-_Texture (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.20:326][583]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.20:326][583]LogInterchangeEngine: [Pending] Importing -  (50)
+[2024.01.28-03.52.20:327][583]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/ladder_ladder_metal_Height_Utility - Raw.png]
+[2024.01.28-03.52.20:327][583]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.20:327][583]LogInterchangeEngine: [Pending] Importing -  (49)
+[2024.01.28-03.52.20:328][583]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/ladder_ladder_metal_Metallic_Utility - Raw.png]
+[2024.01.28-03.52.20:579][588]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.20:579][588]LogInterchangeEngine: [Pending] Importing -  (48)
+[2024.01.28-03.52.20:579][588]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/ladder_ladder_metal_Normal_Utility - Raw.png]
+[2024.01.28-03.52.20:622][588]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2024.01.28-03.52.20:660][588]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2024.01.28-03.52.20:661][588]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2024.01.28-03.52.20:666][588]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.28-03.52.20:835][589]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.20:835][589]LogInterchangeEngine: [Pending] Importing -  (47)
+[2024.01.28-03.52.20:835][589]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/ladder_ladder_metal_Roughness_Utility - Raw.png]
+[2024.01.28-03.52.20:835][589]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.20:835][589]LogInterchangeEngine: [Pending] Importing -  (46)
+[2024.01.28-03.52.20:835][589]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/mat_BaseColor_Utility - sRGB - Texture.png]
+[2024.01.28-03.52.20:953][590]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.20:953][590]LogInterchangeEngine: [Pending] Importing -  (45)
+[2024.01.28-03.52.20:953][590]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/mat_Height_Utility - Raw.png]
+[2024.01.28-03.52.20:979][590]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.28-03.52.20:992][591]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.20:992][591]LogInterchangeEngine: [Pending] Importing -  (44)
+[2024.01.28-03.52.20:992][591]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/mat_Metallic_Utility - Raw.png]
+[2024.01.28-03.52.20:992][591]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.20:992][591]LogInterchangeEngine: [Pending] Importing -  (43)
+[2024.01.28-03.52.20:992][591]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/mat_Normal_Utility - Raw.png]
+[2024.01.28-03.52.21:091][591]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.21:091][591]LogInterchangeEngine: [Pending] Importing -  (42)
+[2024.01.28-03.52.21:091][591]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/mat_Roughness_Utility - Raw.png]
+[2024.01.28-03.52.21:128][592]LogTexture: Display: Building textures: /Game/Environment/Textures/cage_metal_Roughness_Utility_-_Raw.cage_metal_Roughness_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.21:231][592]LogTexture: Display: Building textures: /Game/Environment/Textures/cage_metal_BaseColor_Utility_-_sRGB_-_Texture.cage_metal_BaseColor_Utility_-_sRGB_-_Texture (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.21:233][592]LogTexture: Display: Building textures: /Game/Environment/Textures/chair_chair_metal_BaseColor_Utility_-_sRGB_-_Texture.chair_chair_metal_BaseColor_Utility_-_sRGB_-_Texture (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.21:398][594]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.21:399][594]LogInterchangeEngine: [Pending] Importing -  (41)
+[2024.01.28-03.52.21:399][594]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/metal_legs_BaseColor_Utility - sRGB - Texture.png]
+[2024.01.28-03.52.21:399][594]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.21:399][594]LogInterchangeEngine: [Pending] Importing -  (40)
+[2024.01.28-03.52.21:399][594]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/metal_legs_Height_Utility - Raw.png]
+[2024.01.28-03.52.21:399][594]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.21:399][594]LogInterchangeEngine: [Pending] Importing -  (39)
+[2024.01.28-03.52.21:400][594]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/metal_legs_Metallic_Utility - Raw.png]
+[2024.01.28-03.52.21:762][602]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.21:762][602]LogInterchangeEngine: [Pending] Importing -  (38)
+[2024.01.28-03.52.21:762][602]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/metal_legs_Normal_Utility - Raw.png]
+[2024.01.28-03.52.21:847][602]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.28-03.52.21:967][604]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.21:967][604]LogInterchangeEngine: [Pending] Importing -  (37)
+[2024.01.28-03.52.21:967][604]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/metal_legs_Roughness_Utility - Raw.png]
+[2024.01.28-03.52.21:968][604]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.21:968][604]LogInterchangeEngine: [Pending] Importing -  (36)
+[2024.01.28-03.52.21:968][604]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/metal_pole_BaseColor_Utility - sRGB - Texture.png]
+[2024.01.28-03.52.22:001][604]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.28-03.52.22:102][604]LogTexture: Display: Building textures: /Game/Environment/Textures/cage_metal_Normal_Utility_-_Raw.cage_metal_Normal_Utility_-_Raw (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.22:107][604]LogTexture: Display: Building textures: /Game/Environment/Textures/chair_chair_metal_Metallic_Utility_-_Raw.chair_chair_metal_Metallic_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.22:111][604]LogTexture: Display: Building textures: /Game/Environment/Textures/chair_chair_metal_Height_Utility_-_Raw.chair_chair_metal_Height_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.22:116][604]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.22:116][604]LogInterchangeEngine: [Pending] Importing -  (35)
+[2024.01.28-03.52.22:116][604]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/metal_pole_Height_Utility - Raw.png]
+[2024.01.28-03.52.22:146][605]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.22:146][605]LogInterchangeEngine: [Pending] Importing -  (34)
+[2024.01.28-03.52.22:147][605]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/metal_pole_Metallic_Utility - Raw.png]
+[2024.01.28-03.52.22:147][605]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.22:147][605]LogInterchangeEngine: [Pending] Importing -  (33)
+[2024.01.28-03.52.22:147][605]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/metal_pole_Normal_Utility - Raw.png]
+[2024.01.28-03.52.22:322][606]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.22:323][606]LogInterchangeEngine: [Pending] Importing -  (32)
+[2024.01.28-03.52.22:323][606]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/metal_pole_Roughness_Utility - Raw.png]
+[2024.01.28-03.52.22:324][606]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.22:324][606]LogInterchangeEngine: [Pending] Importing -  (31)
+[2024.01.28-03.52.22:324][606]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/padded_corner_BaseColor_Utility - sRGB - Texture.png]
+[2024.01.28-03.52.22:393][606]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.01.28-03.52.22:629][606]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.28-03.52.22:757][607]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.22:758][607]LogInterchangeEngine: [Pending] Importing -  (30)
+[2024.01.28-03.52.22:758][607]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/padded_corner_Height_Utility - Raw.png]
+[2024.01.28-03.52.22:758][607]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.22:758][607]LogInterchangeEngine: [Pending] Importing -  (29)
+[2024.01.28-03.52.22:758][607]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/padded_corner_Metallic_Utility - Raw.png]
+[2024.01.28-03.52.22:758][607]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.22:758][607]LogInterchangeEngine: [Pending] Importing -  (28)
+[2024.01.28-03.52.22:758][607]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/padded_corner_Normal_Utility - Raw.png]
+[2024.01.28-03.52.22:759][607]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.22:759][607]LogInterchangeEngine: [Pending] Importing -  (27)
+[2024.01.28-03.52.22:759][607]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/padded_corner_Roughness_Utility - Raw.png]
+[2024.01.28-03.52.22:759][607]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.22:759][607]LogInterchangeEngine: [Pending] Importing -  (26)
+[2024.01.28-03.52.22:759][607]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/rope_BaseColor_Utility - sRGB - Texture.png]
+[2024.01.28-03.52.22:783][607]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.28-03.52.22:795][607]LogTexture: Display: Building textures: /Game/Environment/Textures/chair_chair_metal_Roughness_Utility_-_Raw.chair_chair_metal_Roughness_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.22:800][608]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.22:800][608]LogInterchangeEngine: [Pending] Importing -  (25)
+[2024.01.28-03.52.22:800][608]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/rope_Height_Utility - Raw.png]
+[2024.01.28-03.52.22:900][608]LogTexture: Display: Building textures: /Game/Environment/Textures/concrete_Metallic_Utility_-_Raw.concrete_Metallic_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.23:006][609]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.23:006][609]LogInterchangeEngine: [Pending] Importing -  (24)
+[2024.01.28-03.52.23:007][609]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/rope_Metallic_Utility - Raw.png]
+[2024.01.28-03.52.23:008][609]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.23:008][609]LogInterchangeEngine: [Pending] Importing -  (23)
+[2024.01.28-03.52.23:008][609]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/rope_Normal_Utility - Raw.png]
+[2024.01.28-03.52.23:010][609]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.23:010][609]LogInterchangeEngine: [Pending] Importing -  (22)
+[2024.01.28-03.52.23:010][609]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/rope_Roughness_Utility - Raw.png]
+[2024.01.28-03.52.23:011][609]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.23:011][609]LogInterchangeEngine: [Pending] Importing -  (21)
+[2024.01.28-03.52.23:011][609]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/stadium_chair_BaseColor_Utility - sRGB - Texture.png]
+[2024.01.28-03.52.23:012][609]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.23:012][609]LogInterchangeEngine: [Pending] Importing -  (20)
+[2024.01.28-03.52.23:013][609]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/stadium_chair_Height_Utility - Raw.png]
+[2024.01.28-03.52.23:176][610]LogTexture: Display: Building textures: /Game/Environment/Textures/concrete_Height_Utility_-_Raw.concrete_Height_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.23:285][610]LogTexture: Display: Building textures: /Game/Environment/Textures/concrete_Roughness_Utility_-_Raw.concrete_Roughness_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.23:336][610]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.28-03.52.23:350][611]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.23:350][611]LogInterchangeEngine: [Pending] Importing -  (19)
+[2024.01.28-03.52.23:351][611]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/stadium_chair_Metallic_Utility - Raw.png]
+[2024.01.28-03.52.23:351][611]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.23:351][611]LogInterchangeEngine: [Pending] Importing -  (18)
+[2024.01.28-03.52.23:351][611]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/stadium_chair_Normal_Utility - Raw.png]
+[2024.01.28-03.52.23:352][611]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.23:352][611]LogInterchangeEngine: [Pending] Importing -  (17)
+[2024.01.28-03.52.23:352][611]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/stadium_chair_Roughness_Utility - Raw.png]
+[2024.01.28-03.52.23:353][611]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.23:353][611]LogInterchangeEngine: [Pending] Importing -  (16)
+[2024.01.28-03.52.23:353][611]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/stair_metal_BaseColor_Utility - sRGB - Texture.png]
+[2024.01.28-03.52.23:354][611]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.23:355][611]LogInterchangeEngine: [Pending] Importing -  (15)
+[2024.01.28-03.52.23:355][611]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/stair_metal_Height_Utility - Raw.png]
+[2024.01.28-03.52.23:641][614]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.23:641][614]LogInterchangeEngine: [Pending] Importing -  (14)
+[2024.01.28-03.52.23:641][614]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/stair_metal_Metallic_Utility - Raw.png]
+[2024.01.28-03.52.23:641][614]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.23:641][614]LogInterchangeEngine: [Pending] Importing -  (13)
+[2024.01.28-03.52.23:642][614]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/stair_metal_Normal_Utility - Raw.png]
+[2024.01.28-03.52.23:888][618]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.23:888][618]LogInterchangeEngine: [Pending] Importing -  (12)
+[2024.01.28-03.52.23:888][618]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/stair_metal_Roughness_Utility - Raw.png]
+[2024.01.28-03.52.23:901][618]LogTexture: Display: Building textures: /Game/Environment/Textures/ladder_ladder_metal_Height_Utility_-_Raw.ladder_ladder_metal_Height_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.24:026][619]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.28-03.52.24:052][619]LogTexture: Display: Building textures: /Game/Environment/Textures/ladder_ladder_metal_Metallic_Utility_-_Raw.ladder_ladder_metal_Metallic_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.24:066][619]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.28-03.52.24:067][619]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.24:068][619]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.01.28-03.52.24:068][619]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/table_wood_BaseColor_Utility - sRGB - Texture.png]
+[2024.01.28-03.52.24:068][619]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.24:068][619]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.01.28-03.52.24:068][619]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/table_wood_Height_Utility - Raw.png]
+[2024.01.28-03.52.24:069][619]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.24:069][619]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.01.28-03.52.24:069][619]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/table_wood_Metallic_Utility - Raw.png]
+[2024.01.28-03.52.24:356][620]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.24:356][620]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.01.28-03.52.24:356][620]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/table_wood_Normal_Utility - Raw.png]
+[2024.01.28-03.52.24:356][620]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.24:356][620]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.01.28-03.52.24:356][620]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T034713Z-001/table_wood_Roughness_Utility - Raw.png]
+[2024.01.28-03.52.24:356][620]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-03.52.24:495][621]LogTexture: Display: Building textures: /Game/Environment/Textures/concrete_BaseColor_Utility_-_sRGB_-_Texture.concrete_BaseColor_Utility_-_sRGB_-_Texture (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.24:497][621]LogTexture: Display: Building textures: /Game/Environment/Textures/chair_chair_metal_Normal_Utility_-_Raw.chair_chair_metal_Normal_Utility_-_Raw (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.24:526][622]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.01.28-03.52.24:526][622]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.01.28-03.52.24:799][626]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.01.28-03.52.25:147][632]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.01.28-03.52.25:216][633]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.01.28-03.52.25:271][633]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.28-03.52.25:274][633]LogInterchangeEngine: [Success] Import Done
+[2024.01.28-03.52.25:325][633]LogTexture: Display: Building textures: /Game/Environment/Textures/ladder_ladder_metal_BaseColor_Utility_-_sRGB_-_Texture.ladder_ladder_metal_BaseColor_Utility_-_sRGB_-_Texture (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.25:385][634]LogTexture: Display: Building textures: /Game/Environment/Textures/concrete_Normal_Utility_-_Raw.concrete_Normal_Utility_-_Raw (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.25:395][634]LogInterchangeEngine: [Success] Import Done
+[2024.01.28-03.52.25:830][636]LogTexture: Display: Building textures: /Game/Environment/Textures/mat_Metallic_Utility_-_Raw.mat_Metallic_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.25:831][636]LogTexture: Display: Building textures: /Game/Environment/Textures/mat_Roughness_Utility_-_Raw.mat_Roughness_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.26:218][642]LogTexture: Display: Building textures: /Game/Environment/Textures/mat_Height_Utility_-_Raw.mat_Height_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.26:240][642]LogTexture: Display: Building textures: /Game/Environment/Textures/ladder_ladder_metal_Roughness_Utility_-_Raw.ladder_ladder_metal_Roughness_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.26:909][653]LogTexture: Display: Building textures: /Game/Environment/Textures/mat_BaseColor_Utility_-_sRGB_-_Texture.mat_BaseColor_Utility_-_sRGB_-_Texture (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.27:176][656]LogTexture: Display: Building textures: /Game/Environment/Textures/mat_Normal_Utility_-_Raw.mat_Normal_Utility_-_Raw (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.27:178][656]LogTexture: Display: Building textures: /Game/Environment/Textures/ladder_ladder_metal_Normal_Utility_-_Raw.ladder_ladder_metal_Normal_Utility_-_Raw (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.27:733][663]LogTexture: Display: Building textures: /Game/Environment/Textures/metal_legs_Metallic_Utility_-_Raw.metal_legs_Metallic_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.27:777][664]LogTexture: Display: Building textures: /Game/Environment/Textures/metal_legs_Height_Utility_-_Raw.metal_legs_Height_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.28:130][668]LogTexture: Display: Building textures: /Game/Environment/Textures/metal_pole_Height_Utility_-_Raw.metal_pole_Height_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.28:173][668]LogTexture: Display: Building textures: /Game/Environment/Textures/metal_legs_Roughness_Utility_-_Raw.metal_legs_Roughness_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.28:541][674]LogTexture: Display: Building textures: /Game/Environment/Textures/metal_pole_Metallic_Utility_-_Raw.metal_pole_Metallic_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.28:577][674]LogTexture: Display: Building textures: /Game/Environment/Textures/metal_legs_BaseColor_Utility_-_sRGB_-_Texture.metal_legs_BaseColor_Utility_-_sRGB_-_Texture (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.28:966][679]LogTexture: Display: Building textures: /Game/Environment/Textures/metal_pole_Roughness_Utility_-_Raw.metal_pole_Roughness_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.29:007][680]LogTexture: Display: Building textures: /Game/Environment/Textures/metal_legs_Normal_Utility_-_Raw.metal_legs_Normal_Utility_-_Raw (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.29:370][682]LogTexture: Display: Building textures: /Game/Environment/Textures/metal_pole_BaseColor_Utility_-_sRGB_-_Texture.metal_pole_BaseColor_Utility_-_sRGB_-_Texture (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.29:525][685]LogTexture: Display: Building textures: /Game/Environment/Textures/metal_pole_Normal_Utility_-_Raw.metal_pole_Normal_Utility_-_Raw (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.29:725][688]LogTexture: Display: Building textures: /Game/Environment/Textures/padded_corner_Metallic_Utility_-_Raw.padded_corner_Metallic_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.29:984][692]LogTexture: Display: Building textures: /Game/Environment/Textures/padded_corner_BaseColor_Utility_-_sRGB_-_Texture.padded_corner_BaseColor_Utility_-_sRGB_-_Texture (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.30:063][693]LogTexture: Display: Building textures: /Game/Environment/Textures/padded_corner_Roughness_Utility_-_Raw.padded_corner_Roughness_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.30:372][698]LogTexture: Display: Building textures: /Game/Environment/Textures/padded_corner_Height_Utility_-_Raw.padded_corner_Height_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.30:513][700]LogTexture: Display: Building textures: /Game/Environment/Textures/rope_Height_Utility_-_Raw.rope_Height_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.30:684][702]LogTexture: Display: Building textures: /Game/Environment/Textures/rope_Metallic_Utility_-_Raw.rope_Metallic_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.30:896][705]LogTexture: Display: Building textures: /Game/Environment/Textures/padded_corner_Normal_Utility_-_Raw.padded_corner_Normal_Utility_-_Raw (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.31:055][707]LogTexture: Display: Building textures: /Game/Environment/Textures/stadium_chair_Height_Utility_-_Raw.stadium_chair_Height_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.31:284][710]LogTexture: Display: Building textures: /Game/Environment/Textures/rope_Roughness_Utility_-_Raw.rope_Roughness_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.31:442][713]LogTexture: Display: Building textures: /Game/Environment/Textures/rope_BaseColor_Utility_-_sRGB_-_Texture.rope_BaseColor_Utility_-_sRGB_-_Texture (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.31:753][718]LogTexture: Display: Building textures: /Game/Environment/Textures/stadium_chair_Metallic_Utility_-_Raw.stadium_chair_Metallic_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.31:890][720]LogTexture: Display: Building textures: /Game/Environment/Textures/stadium_chair_Roughness_Utility_-_Raw.stadium_chair_Roughness_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.32:079][722]LogTexture: Display: Building textures: /Game/Environment/Textures/stadium_chair_BaseColor_Utility_-_sRGB_-_Texture.stadium_chair_BaseColor_Utility_-_sRGB_-_Texture (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.32:245][725]LogTexture: Display: Building textures: /Game/Environment/Textures/rope_Normal_Utility_-_Raw.rope_Normal_Utility_-_Raw (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.32:411][727]LogTexture: Display: Building textures: /Game/Environment/Textures/stair_metal_Height_Utility_-_Raw.stair_metal_Height_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.32:911][736]LogTexture: Display: Building textures: /Game/Environment/Textures/stadium_chair_Normal_Utility_-_Raw.stadium_chair_Normal_Utility_-_Raw (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.33:084][738]LogTexture: Display: Building textures: /Game/Environment/Textures/stair_metal_BaseColor_Utility_-_sRGB_-_Texture.stair_metal_BaseColor_Utility_-_sRGB_-_Texture (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.33:520][744]LogTexture: Display: Building textures: /Game/Environment/Textures/table_wood_Height_Utility_-_Raw.table_wood_Height_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.33:667][747]LogTexture: Display: Building textures: /Game/Environment/Textures/stair_metal_Metallic_Utility_-_Raw.stair_metal_Metallic_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.34:136][756]LogTexture: Display: Building textures: /Game/Environment/Textures/table_wood_Metallic_Utility_-_Raw.table_wood_Metallic_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.34:298][758]LogTexture: Display: Building textures: /Game/Environment/Textures/stair_metal_Roughness_Utility_-_Raw.stair_metal_Roughness_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.34:793][766]LogTexture: Display: Building textures: /Game/Environment/Textures/table_wood_Roughness_Utility_-_Raw.table_wood_Roughness_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.35:159][774]LogTexture: Display: Building textures: /Game/Environment/Textures/table_wood_BaseColor_Utility_-_sRGB_-_Texture.table_wood_BaseColor_Utility_-_sRGB_-_Texture (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.35:522][781]LogTexture: Display: Building textures: /Game/Environment/Textures/stair_metal_Normal_Utility_-_Raw.stair_metal_Normal_Utility_-_Raw (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.36:073][791]LogTexture: Display: Building textures: /Game/Environment/Textures/table_wood_Normal_Utility_-_Raw.table_wood_Normal_Utility_-_Raw (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.28-03.52.39:506][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.01.28-03.52.39:536][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-03.52.39:634][913]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HQ/B8YI1TJA6EP7VSHZYUQQHI
+[2024.01.28-03.52.39:634][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/B8YI1TJA6EP7VSHZYUQQHI2E076C0B49CFBC5A6987B781C3820073.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HQ/B8YI1TJA6EP7VSHZYUQQHI.uasset'
+[2024.01.28-03.52.39:637][913]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/1L/DPVCUR4XNM3638BAOO1YLZ
+[2024.01.28-03.52.39:638][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/DPVCUR4XNM3638BAOO1YLZF8E9A0CD469C45D572373E931ED7C27D.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/1L/DPVCUR4XNM3638BAOO1YLZ.uasset'
+[2024.01.28-03.52.39:641][913]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WF/GW4HJCRCHXRXQWCNLT79SY
+[2024.01.28-03.52.39:642][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/GW4HJCRCHXRXQWCNLT79SY906BD4E549C695312208119F5D0551E7.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WF/GW4HJCRCHXRXQWCNLT79SY.uasset'
+[2024.01.28-03.52.39:916][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/box_Normal_Utility_-_Raw
+[2024.01.28-03.52.39:917][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/box_Normal_Utility_-_Raw3E5005A4423134771AD8ABAEE26206CB.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/box_Normal_Utility_-_Raw.uasset'
+[2024.01.28-03.52.39:986][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/box_Height_Utility_-_Raw
+[2024.01.28-03.52.39:986][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/box_Height_Utility_-_Raw61A66A144F8B78BC45B8AFBA1033E5AA.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/box_Height_Utility_-_Raw.uasset'
+[2024.01.28-03.52.40:056][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/box_Metallic_Utility_-_Raw
+[2024.01.28-03.52.40:056][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/box_Metallic_Utility_-_Raw0C0B0D524343E9995B1A38A78E04A76A.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/box_Metallic_Utility_-_Raw.uasset'
+[2024.01.28-03.52.40:124][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/cage_metal_Height_Utility_-_Raw
+[2024.01.28-03.52.40:124][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/cage_metal_Height_Utility_-_Raw9155583E4F9C1F607837D6BA7533AA72.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/cage_metal_Height_Utility_-_Raw.uasset'
+[2024.01.28-03.52.40:386][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/cage_metal_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.40:386][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/cage_metal_BaseColor_Utility_-_sBECA814043209BE4E366A68E6A5F9B21.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/cage_metal_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2024.01.28-03.52.40:646][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/box_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.40:646][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/box_BaseColor_Utility_-_sRGB_-_T7468C98842C993DFF7855B8BD3E5DDC5.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/box_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2024.01.28-03.52.40:729][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/box_Roughness_Utility_-_Raw
+[2024.01.28-03.52.40:729][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/box_Roughness_Utility_-_RawABB7EE0441EA0D02F2589E983B6E353D.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/box_Roughness_Utility_-_Raw.uasset'
+[2024.01.28-03.52.40:819][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/cage_metal_Metallic_Utility_-_Raw
+[2024.01.28-03.52.40:819][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/cage_metal_Metallic_Utility_-_Ra40D6C1B845D83EDE49CDB4911DC2E55E.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/cage_metal_Metallic_Utility_-_Raw.uasset'
+[2024.01.28-03.52.41:142][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/cage_metal_Normal_Utility_-_Raw
+[2024.01.28-03.52.41:142][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/cage_metal_Normal_Utility_-_RawFC5EE4F1486AC6244C7D74A46FC6A802.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/cage_metal_Normal_Utility_-_Raw.uasset'
+[2024.01.28-03.52.41:248][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/cage_metal_Roughness_Utility_-_Raw
+[2024.01.28-03.52.41:248][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/cage_metal_Roughness_Utility_-_R6BA34E594AD8A1171F600AA0D9ADCE67.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/cage_metal_Roughness_Utility_-_Raw.uasset'
+[2024.01.28-03.52.41:526][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/chair_chair_metal_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.41:526][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/chair_chair_metal_BaseColor_Util5445E5C6496CBE516AA14388D1229C0E.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/chair_chair_metal_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2024.01.28-03.52.41:600][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/chair_chair_metal_Metallic_Utility_-_Raw
+[2024.01.28-03.52.41:600][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/chair_chair_metal_Metallic_Utili08AAB6324733937FB6A388978F741370.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/chair_chair_metal_Metallic_Utility_-_Raw.uasset'
+[2024.01.28-03.52.41:676][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/chair_chair_metal_Height_Utility_-_Raw
+[2024.01.28-03.52.41:676][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/chair_chair_metal_Height_Utility26A97B6040D8448747E3B18BE49F6080.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/chair_chair_metal_Height_Utility_-_Raw.uasset'
+[2024.01.28-03.52.42:004][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/chair_chair_metal_Normal_Utility_-_Raw
+[2024.01.28-03.52.42:004][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/chair_chair_metal_Normal_Utility981C36784EECF56BEEB690AFF4D04A9F.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/chair_chair_metal_Normal_Utility_-_Raw.uasset'
+[2024.01.28-03.52.42:075][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/chair_chair_metal_Roughness_Utility_-_Raw
+[2024.01.28-03.52.42:075][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/chair_chair_metal_Roughness_Util20DBF31B4363AA9A3A1D66937CEC80BC.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/chair_chair_metal_Roughness_Utility_-_Raw.uasset'
+[2024.01.28-03.52.42:338][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/concrete_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.42:338][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/concrete_BaseColor_Utility_-_sRGB6DF8AB04E0C35A9363AE7AF225A47AA.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/concrete_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2024.01.28-03.52.42:415][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/concrete_Height_Utility_-_Raw
+[2024.01.28-03.52.42:415][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/concrete_Height_Utility_-_RawA13D9D93433FF2C684D32A8A3D0CCF63.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/concrete_Height_Utility_-_Raw.uasset'
+[2024.01.28-03.52.42:483][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/concrete_Metallic_Utility_-_Raw
+[2024.01.28-03.52.42:483][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/concrete_Metallic_Utility_-_Raw8343F4A7402F7EA16167A0BD21EA448E.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/concrete_Metallic_Utility_-_Raw.uasset'
+[2024.01.28-03.52.42:766][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/concrete_Normal_Utility_-_Raw
+[2024.01.28-03.52.42:766][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/concrete_Normal_Utility_-_RawACF485784C414DDE040E2DB0EC1D157F.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/concrete_Normal_Utility_-_Raw.uasset'
+[2024.01.28-03.52.42:852][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/concrete_Roughness_Utility_-_Raw
+[2024.01.28-03.52.42:852][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/concrete_Roughness_Utility_-_RawBA6278984863BDF259CB398AD38C1029.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/concrete_Roughness_Utility_-_Raw.uasset'
+[2024.01.28-03.52.43:114][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/ladder_ladder_metal_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.43:114][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/ladder_ladder_metal_BaseColor_UtA4AB5CAB4E25F15B3B12BCA0045DFC4C.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/ladder_ladder_metal_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2024.01.28-03.52.43:190][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/ladder_ladder_metal_Height_Utility_-_Raw
+[2024.01.28-03.52.43:190][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/ladder_ladder_metal_Height_UtiliC0B6C7194E2AE9F98745E981E3F2B5E7.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/ladder_ladder_metal_Height_Utility_-_Raw.uasset'
+[2024.01.28-03.52.43:270][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/ladder_ladder_metal_Metallic_Utility_-_Raw
+[2024.01.28-03.52.43:271][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/ladder_ladder_metal_Metallic_UtiBE9FCDD7435FC8C4601D72851022BCD4.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/ladder_ladder_metal_Metallic_Utility_-_Raw.uasset'
+[2024.01.28-03.52.43:627][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/ladder_ladder_metal_Normal_Utility_-_Raw
+[2024.01.28-03.52.43:627][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/ladder_ladder_metal_Normal_UtiliBE52EF1F414A50BB140C44B16C3949FD.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/ladder_ladder_metal_Normal_Utility_-_Raw.uasset'
+[2024.01.28-03.52.43:747][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/ladder_ladder_metal_Roughness_Utility_-_Raw
+[2024.01.28-03.52.43:747][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/ladder_ladder_metal_Roughness_Ut3E75827D4CFE6F3DC9D323BCA991728A.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/ladder_ladder_metal_Roughness_Utility_-_Raw.uasset'
+[2024.01.28-03.52.44:025][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/mat_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.44:026][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/mat_BaseColor_Utility_-_sRGB_-_T8D4CE9D04EF5BDB262E39FBE6C3B87F6.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/mat_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2024.01.28-03.52.44:103][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/mat_Height_Utility_-_Raw
+[2024.01.28-03.52.44:103][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/mat_Height_Utility_-_Raw5708677543075EAD030A3EB4E03D49C4.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/mat_Height_Utility_-_Raw.uasset'
+[2024.01.28-03.52.44:172][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/mat_Metallic_Utility_-_Raw
+[2024.01.28-03.52.44:172][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/mat_Metallic_Utility_-_Raw3730E7904C0BFBEEA16A589F03326AC4.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/mat_Metallic_Utility_-_Raw.uasset'
+[2024.01.28-03.52.44:450][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/mat_Normal_Utility_-_Raw
+[2024.01.28-03.52.44:450][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/mat_Normal_Utility_-_RawD1296EB04A9D223B67491891E14DF8D1.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/mat_Normal_Utility_-_Raw.uasset'
+[2024.01.28-03.52.44:520][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/mat_Roughness_Utility_-_Raw
+[2024.01.28-03.52.44:521][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/mat_Roughness_Utility_-_Raw9CD3F61946B56BA2F1BC158FA6CDA89B.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/mat_Roughness_Utility_-_Raw.uasset'
+[2024.01.28-03.52.44:630][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/metal_legs_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.44:630][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/metal_legs_BaseColor_Utility_-_sBA42E89D472221835787ACB6CDA7348D.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/metal_legs_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2024.01.28-03.52.44:704][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/metal_legs_Height_Utility_-_Raw
+[2024.01.28-03.52.44:704][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/metal_legs_Height_Utility_-_RawC8D94A474677CF319092EE9FAEE56636.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/metal_legs_Height_Utility_-_Raw.uasset'
+[2024.01.28-03.52.44:780][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/metal_legs_Metallic_Utility_-_Raw
+[2024.01.28-03.52.44:780][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/metal_legs_Metallic_Utility_-_Ra14480EA44947A8CEC8863DB1452C1BFE.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/metal_legs_Metallic_Utility_-_Raw.uasset'
+[2024.01.28-03.52.45:101][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/metal_legs_Normal_Utility_-_Raw
+[2024.01.28-03.52.45:101][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/metal_legs_Normal_Utility_-_RawBACE16FB4D628764A4E1CFB9D71048C7.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/metal_legs_Normal_Utility_-_Raw.uasset'
+[2024.01.28-03.52.45:180][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/metal_legs_Roughness_Utility_-_Raw
+[2024.01.28-03.52.45:180][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/metal_legs_Roughness_Utility_-_R73BB630E48E59ABB7BA337BBEFA488C7.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/metal_legs_Roughness_Utility_-_Raw.uasset'
+[2024.01.28-03.52.45:460][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/metal_pole_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.45:460][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/metal_pole_BaseColor_Utility_-_s187865F54F88B433446F6E80376A4376.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/metal_pole_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2024.01.28-03.52.45:535][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/metal_pole_Height_Utility_-_Raw
+[2024.01.28-03.52.45:535][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/metal_pole_Height_Utility_-_Raw5F19F1E84F32C4FE00A111A9D82CE855.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/metal_pole_Height_Utility_-_Raw.uasset'
+[2024.01.28-03.52.45:856][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/metal_pole_Normal_Utility_-_Raw
+[2024.01.28-03.52.45:856][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/metal_pole_Normal_Utility_-_Raw9318F1A244205038B66411AC025CF727.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/metal_pole_Normal_Utility_-_Raw.uasset'
+[2024.01.28-03.52.45:971][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/metal_pole_Metallic_Utility_-_Raw
+[2024.01.28-03.52.45:971][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/metal_pole_Metallic_Utility_-_Ra477F3A354901D9E8362F98ABCBBE5BB5.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/metal_pole_Metallic_Utility_-_Raw.uasset'
+[2024.01.28-03.52.46:075][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/metal_pole_Roughness_Utility_-_Raw
+[2024.01.28-03.52.46:075][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/metal_pole_Roughness_Utility_-_RD7DDF2B44BD44548CC3E1EB778775DD8.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/metal_pole_Roughness_Utility_-_Raw.uasset'
+[2024.01.28-03.52.46:353][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/padded_corner_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.46:353][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/padded_corner_BaseColor_Utility_92CBEDC8467B478C670AC0AEF4B5DD9C.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/padded_corner_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2024.01.28-03.52.46:466][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/padded_corner_Height_Utility_-_Raw
+[2024.01.28-03.52.46:466][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/padded_corner_Height_Utility_-_R65A51E904149E40E8C8019929B961A74.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/padded_corner_Height_Utility_-_Raw.uasset'
+[2024.01.28-03.52.46:569][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/padded_corner_Metallic_Utility_-_Raw
+[2024.01.28-03.52.46:569][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/padded_corner_Metallic_Utility_-4F2523424E842A3AC458FD877300C97B.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/padded_corner_Metallic_Utility_-_Raw.uasset'
+[2024.01.28-03.52.46:891][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/padded_corner_Normal_Utility_-_Raw
+[2024.01.28-03.52.46:891][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/padded_corner_Normal_Utility_-_R003797FA4F9818657D987F8926B6ECD2.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/padded_corner_Normal_Utility_-_Raw.uasset'
+[2024.01.28-03.52.46:991][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/padded_corner_Roughness_Utility_-_Raw
+[2024.01.28-03.52.46:991][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/padded_corner_Roughness_Utility_08D46C7C4758547019F59E8605EAB073.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/padded_corner_Roughness_Utility_-_Raw.uasset'
+[2024.01.28-03.52.47:242][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/rope_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.47:242][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/rope_BaseColor_Utility_-_sRGB_-_7DBF602B4BDD54ABD9904BB3ACCF0F54.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/rope_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2024.01.28-03.52.47:348][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/rope_Height_Utility_-_Raw
+[2024.01.28-03.52.47:348][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/rope_Height_Utility_-_RawCFE7951A49BACF913EA4CBB08C82B492.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/rope_Height_Utility_-_Raw.uasset'
+[2024.01.28-03.52.47:454][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/rope_Metallic_Utility_-_Raw
+[2024.01.28-03.52.47:454][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/rope_Metallic_Utility_-_Raw1FF4092F4E5DB7B5C58BFEB1D7120FBB.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/rope_Metallic_Utility_-_Raw.uasset'
+[2024.01.28-03.52.47:530][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/rope_Roughness_Utility_-_Raw
+[2024.01.28-03.52.47:530][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/rope_Roughness_Utility_-_Raw26AB5CB84B65A12828D1B9B13DC72907.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/rope_Roughness_Utility_-_Raw.uasset'
+[2024.01.28-03.52.47:654][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/stadium_chair_Height_Utility_-_Raw
+[2024.01.28-03.52.47:654][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/stadium_chair_Height_Utility_-_RBB21FF66431CF859B2C152A3155C129A.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/stadium_chair_Height_Utility_-_Raw.uasset'
+[2024.01.28-03.52.47:942][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/rope_Normal_Utility_-_Raw
+[2024.01.28-03.52.47:942][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/rope_Normal_Utility_-_RawAC36808849BF77B5100D4BBF1424D87A.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/rope_Normal_Utility_-_Raw.uasset'
+[2024.01.28-03.52.48:199][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/stadium_chair_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.48:199][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/stadium_chair_BaseColor_Utility_E37D12E94E6033C2F1E230A167A8757E.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/stadium_chair_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2024.01.28-03.52.48:270][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/stadium_chair_Metallic_Utility_-_Raw
+[2024.01.28-03.52.48:270][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/stadium_chair_Metallic_Utility_-4D4C52584DCA7C98AAE1A599CD812E83.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/stadium_chair_Metallic_Utility_-_Raw.uasset'
+[2024.01.28-03.52.48:587][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/stadium_chair_Normal_Utility_-_Raw
+[2024.01.28-03.52.48:587][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/stadium_chair_Normal_Utility_-_R6D54A69E42E8F65966BB67B4761F5032.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/stadium_chair_Normal_Utility_-_Raw.uasset'
+[2024.01.28-03.52.48:663][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/stadium_chair_Roughness_Utility_-_Raw
+[2024.01.28-03.52.48:663][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/stadium_chair_Roughness_Utility_FCB6DE9B409713E3D9268A91684A0860.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/stadium_chair_Roughness_Utility_-_Raw.uasset'
+[2024.01.28-03.52.49:024][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/stair_metal_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.49:024][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/stair_metal_BaseColor_Utility_-_F046AC61419A16BBCAAC12BC91FC40BC.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/stair_metal_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2024.01.28-03.52.49:128][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/stair_metal_Height_Utility_-_Raw
+[2024.01.28-03.52.49:128][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/stair_metal_Height_Utility_-_RawAF95713D40610558EB6B81A81ED7161E.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/stair_metal_Height_Utility_-_Raw.uasset'
+[2024.01.28-03.52.49:259][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/stair_metal_Metallic_Utility_-_Raw
+[2024.01.28-03.52.49:259][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/stair_metal_Metallic_Utility_-_R96366D824B95FE05B89CFD8E82BDBA87.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/stair_metal_Metallic_Utility_-_Raw.uasset'
+[2024.01.28-03.52.49:650][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/stair_metal_Normal_Utility_-_Raw
+[2024.01.28-03.52.49:650][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/stair_metal_Normal_Utility_-_Raw61AE2AC8479B603BF8424E82963294A6.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/stair_metal_Normal_Utility_-_Raw.uasset'
+[2024.01.28-03.52.49:794][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/stair_metal_Roughness_Utility_-_Raw
+[2024.01.28-03.52.49:794][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/stair_metal_Roughness_Utility_-_8DB3673F4192532A651560B41C1CB3A7.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/stair_metal_Roughness_Utility_-_Raw.uasset'
+[2024.01.28-03.52.50:157][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/table_wood_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.50:157][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/table_wood_BaseColor_Utility_-_s82C5C36B44649502AEA06ABE4F787A25.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/table_wood_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2024.01.28-03.52.50:239][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/table_wood_Height_Utility_-_Raw
+[2024.01.28-03.52.50:239][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/table_wood_Height_Utility_-_Raw5C8756A94388BDC1CCD0A7B3744CDCB1.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/table_wood_Height_Utility_-_Raw.uasset'
+[2024.01.28-03.52.50:352][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/table_wood_Metallic_Utility_-_Raw
+[2024.01.28-03.52.50:352][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/table_wood_Metallic_Utility_-_Ra70A15AD043F914C563A031BE9BB0C316.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/table_wood_Metallic_Utility_-_Raw.uasset'
+[2024.01.28-03.52.50:666][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/table_wood_Normal_Utility_-_Raw
+[2024.01.28-03.52.50:666][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/table_wood_Normal_Utility_-_Raw7127059A47BB064C15D47BAC56BE0056.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/table_wood_Normal_Utility_-_Raw.uasset'
+[2024.01.28-03.52.50:810][913]LogSavePackage: Moving output files for package: /Game/Environment/Textures/table_wood_Roughness_Utility_-_Raw
+[2024.01.28-03.52.50:811][913]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/table_wood_Roughness_Utility_-_R10B75EC74CBA854F3137378847232A58.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Environment/Textures/table_wood_Roughness_Utility_-_Raw.uasset'
+[2024.01.28-03.52.50:824][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 11.2 sec (total: 29.5 sec)
+[2024.01.28-03.52.50:851][913]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-03.52.50:851][913]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A8A1593176F29AD301_1820521089
+[2024.01.28-03.52.50:851][913]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A8A1593176F299D301_1566892904
+[2024.01.28-03.52.50:851][913]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A8A1593176F29AD301_1870445090
+[2024.01.28-03.52.50:851][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/box_Normal_Utility_-_Raw.box_Normal_Utility_-_Raw
+[2024.01.28-03.52.50:851][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/box_Height_Utility_-_Raw.box_Height_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/box_Metallic_Utility_-_Raw.box_Metallic_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/cage_metal_Height_Utility_-_Raw.cage_metal_Height_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/cage_metal_BaseColor_Utility_-_sRGB_-_Texture.cage_metal_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/box_BaseColor_Utility_-_sRGB_-_Texture.box_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/box_Roughness_Utility_-_Raw.box_Roughness_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/cage_metal_Metallic_Utility_-_Raw.cage_metal_Metallic_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/cage_metal_Normal_Utility_-_Raw.cage_metal_Normal_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/cage_metal_Roughness_Utility_-_Raw.cage_metal_Roughness_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/chair_chair_metal_BaseColor_Utility_-_sRGB_-_Texture.chair_chair_metal_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/chair_chair_metal_Metallic_Utility_-_Raw.chair_chair_metal_Metallic_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/chair_chair_metal_Height_Utility_-_Raw.chair_chair_metal_Height_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/chair_chair_metal_Normal_Utility_-_Raw.chair_chair_metal_Normal_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/chair_chair_metal_Roughness_Utility_-_Raw.chair_chair_metal_Roughness_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/concrete_BaseColor_Utility_-_sRGB_-_Texture.concrete_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/concrete_Height_Utility_-_Raw.concrete_Height_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/concrete_Metallic_Utility_-_Raw.concrete_Metallic_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/concrete_Normal_Utility_-_Raw.concrete_Normal_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/concrete_Roughness_Utility_-_Raw.concrete_Roughness_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/ladder_ladder_metal_BaseColor_Utility_-_sRGB_-_Texture.ladder_ladder_metal_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/ladder_ladder_metal_Height_Utility_-_Raw.ladder_ladder_metal_Height_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/ladder_ladder_metal_Metallic_Utility_-_Raw.ladder_ladder_metal_Metallic_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/ladder_ladder_metal_Normal_Utility_-_Raw.ladder_ladder_metal_Normal_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/ladder_ladder_metal_Roughness_Utility_-_Raw.ladder_ladder_metal_Roughness_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/mat_BaseColor_Utility_-_sRGB_-_Texture.mat_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/mat_Height_Utility_-_Raw.mat_Height_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/mat_Metallic_Utility_-_Raw.mat_Metallic_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/mat_Normal_Utility_-_Raw.mat_Normal_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/mat_Roughness_Utility_-_Raw.mat_Roughness_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/metal_legs_BaseColor_Utility_-_sRGB_-_Texture.metal_legs_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/metal_legs_Height_Utility_-_Raw.metal_legs_Height_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/metal_legs_Metallic_Utility_-_Raw.metal_legs_Metallic_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/metal_legs_Normal_Utility_-_Raw.metal_legs_Normal_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/metal_legs_Roughness_Utility_-_Raw.metal_legs_Roughness_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/metal_pole_BaseColor_Utility_-_sRGB_-_Texture.metal_pole_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/metal_pole_Height_Utility_-_Raw.metal_pole_Height_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/metal_pole_Normal_Utility_-_Raw.metal_pole_Normal_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/metal_pole_Metallic_Utility_-_Raw.metal_pole_Metallic_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/metal_pole_Roughness_Utility_-_Raw.metal_pole_Roughness_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/padded_corner_BaseColor_Utility_-_sRGB_-_Texture.padded_corner_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/padded_corner_Height_Utility_-_Raw.padded_corner_Height_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/padded_corner_Metallic_Utility_-_Raw.padded_corner_Metallic_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/padded_corner_Normal_Utility_-_Raw.padded_corner_Normal_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/padded_corner_Roughness_Utility_-_Raw.padded_corner_Roughness_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/rope_BaseColor_Utility_-_sRGB_-_Texture.rope_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/rope_Height_Utility_-_Raw.rope_Height_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/rope_Metallic_Utility_-_Raw.rope_Metallic_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/rope_Roughness_Utility_-_Raw.rope_Roughness_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/stadium_chair_Height_Utility_-_Raw.stadium_chair_Height_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/rope_Normal_Utility_-_Raw.rope_Normal_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/stadium_chair_BaseColor_Utility_-_sRGB_-_Texture.stadium_chair_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/stadium_chair_Metallic_Utility_-_Raw.stadium_chair_Metallic_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/stadium_chair_Normal_Utility_-_Raw.stadium_chair_Normal_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/stadium_chair_Roughness_Utility_-_Raw.stadium_chair_Roughness_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/stair_metal_BaseColor_Utility_-_sRGB_-_Texture.stair_metal_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/stair_metal_Height_Utility_-_Raw.stair_metal_Height_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/stair_metal_Metallic_Utility_-_Raw.stair_metal_Metallic_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/stair_metal_Normal_Utility_-_Raw.stair_metal_Normal_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/stair_metal_Roughness_Utility_-_Raw.stair_metal_Roughness_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/table_wood_BaseColor_Utility_-_sRGB_-_Texture.table_wood_BaseColor_Utility_-_sRGB_-_Texture
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/table_wood_Height_Utility_-_Raw.table_wood_Height_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/table_wood_Metallic_Utility_-_Raw.table_wood_Metallic_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/table_wood_Normal_Utility_-_Raw.table_wood_Normal_Utility_-_Raw
+[2024.01.28-03.52.50:852][913]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Textures/table_wood_Roughness_Utility_-_Raw.table_wood_Roughness_Utility_-_Raw
