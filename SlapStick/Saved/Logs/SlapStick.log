@@ -5241,3 +5241,113 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.01.28-12.45.52:921][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
 [2024.01.28-12.45.52:950][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
 [2024.01.28-12.45.53:040][730]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2024.01.28-12.47.28:156][216]LogDerivedDataCache: C:/Users/Bradley Vu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:28.472 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 14837 files in 16731 folders with total size 1048 MiB.
+[2024.01.28-12.55.37:404][642]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Bradley Vu/Downloads/Table Breaking.wav)
+[2024.01.28-12.55.37:425][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Table_Breaking...
+[2024.01.28-12.55.37:494][642]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/Table_Breaking.Table_Breaking: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.37:495][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Table_Breaking...
+[2024.01.28-12.55.37:502][642]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Bradley Vu/Downloads/Chair Falling.wav)
+[2024.01.28-12.55.37:504][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Chair_Falling...
+[2024.01.28-12.55.37:511][642]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/Chair_Falling.Chair_Falling: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.37:512][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Chair_Falling...
+[2024.01.28-12.55.37:518][642]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Bradley Vu/Downloads/Table Falling.wav)
+[2024.01.28-12.55.37:526][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Table_Falling...
+[2024.01.28-12.55.37:623][642]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/Table_Breaking.Table_Breaking: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.37:623][642]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/Table_Falling.Table_Falling: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.37:624][642]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/Chair_Falling.Chair_Falling: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.37:626][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Table_Falling...
+[2024.01.28-12.55.37:632][642]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Bradley Vu/Downloads/Metal Stairs Falling.wav)
+[2024.01.28-12.55.37:640][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Metal_Stairs_Falling...
+[2024.01.28-12.55.37:734][642]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/Metal_Stairs_Falling.Metal_Stairs_Falling: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.37:734][642]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/Table_Falling.Table_Falling: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.37:736][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Metal_Stairs_Falling...
+[2024.01.28-12.55.37:738][642]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Bradley Vu/Downloads/Cage Thud (when it ends the closing animation).wav)
+[2024.01.28-12.55.37:765][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Cage_Thud__when_it_ends_the_closing_animation_...
+[2024.01.28-12.55.37:765][642]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/Cage_Thud__when_it_ends_the_closing_animation_.Cage_Thud__when_it_ends_the_closing_animation_] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.01.28-12.55.37:784][642]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/Cage_Thud__when_it_ends_the_closing_animation_.Cage_Thud__when_it_ends_the_closing_animation_: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.37:784][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Cage_Thud__when_it_ends_the_closing_animation_...
+[2024.01.28-12.55.37:784][642]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/Cage_Thud__when_it_ends_the_closing_animation_.Cage_Thud__when_it_ends_the_closing_animation_] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.01.28-12.55.37:797][642]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Bradley Vu/Downloads/2_bell_rings.wav)
+[2024.01.28-12.55.37:833][642]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/Metal_Stairs_Falling.Metal_Stairs_Falling: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.37:834][642]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/Cage_Thud__when_it_ends_the_closing_animation_.Cage_Thud__when_it_ends_the_closing_animation_: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.37:966][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave 2_bell_rings...
+[2024.01.28-12.55.37:967][642]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/2_bell_rings.2_bell_rings] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.01.28-12.55.38:143][642]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/2_bell_rings.2_bell_rings: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.38:145][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave 2_bell_rings...
+[2024.01.28-12.55.38:146][642]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/2_bell_rings.2_bell_rings] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.01.28-12.55.38:165][642]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Bradley Vu/Downloads/3_bell_rings.wav)
+[2024.01.28-12.55.38:362][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave 3_bell_rings...
+[2024.01.28-12.55.38:362][642]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/3_bell_rings.3_bell_rings] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.01.28-12.55.38:533][642]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/3_bell_rings.3_bell_rings: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.38:534][642]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/2_bell_rings.2_bell_rings: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.38:536][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave 3_bell_rings...
+[2024.01.28-12.55.38:536][642]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/3_bell_rings.3_bell_rings] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.01.28-12.55.38:548][642]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Bradley Vu/Downloads/1_bell_rings.wav)
+[2024.01.28-12.55.38:717][642]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/3_bell_rings.3_bell_rings: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.38:724][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave 1_bell_rings...
+[2024.01.28-12.55.38:724][642]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/1_bell_rings.1_bell_rings] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.01.28-12.55.38:876][642]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/1_bell_rings.1_bell_rings: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.38:877][642]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave 1_bell_rings...
+[2024.01.28-12.55.38:878][642]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/1_bell_rings.1_bell_rings] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.01.28-12.55.38:899][642]LogAutomationController: Ignoring very large delta of 6.54 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.28-12.55.39:033][650]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/1_bell_rings.1_bell_rings: Chunk0=28 bytes, Chunk1-N=256k
+[2024.01.28-12.55.41:954][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-12.55.42:022][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/1_bell_rings" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Audio/1_bell_rings.uasset" SILENT=true
+[2024.01.28-12.55.42:038][837]LogSavePackage: Moving output files for package: /Game/Audio/1_bell_rings
+[2024.01.28-12.55.42:039][837]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/1_bell_ringsF3A50CCA428C76707133F6939E881788.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Audio/1_bell_rings.uasset'
+[2024.01.28-12.55.42:046][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/3_bell_rings" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Audio/3_bell_rings.uasset" SILENT=true
+[2024.01.28-12.55.42:057][837]LogSavePackage: Moving output files for package: /Game/Audio/3_bell_rings
+[2024.01.28-12.55.42:057][837]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/3_bell_rings0608A53C46220F5AA3EF4E853BEFF456.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Audio/3_bell_rings.uasset'
+[2024.01.28-12.55.42:064][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/2_bell_rings" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Audio/2_bell_rings.uasset" SILENT=true
+[2024.01.28-12.55.42:075][837]LogSavePackage: Moving output files for package: /Game/Audio/2_bell_rings
+[2024.01.28-12.55.42:075][837]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/2_bell_rings91F12E6747CC23925F9346ADC1AFC554.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Audio/2_bell_rings.uasset'
+[2024.01.28-12.55.42:085][837]LogSavePackage: Moving output files for package: /Game/Audio/Cage_Thud__when_it_ends_the_closing_animation_
+[2024.01.28-12.55.42:085][837]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Cage_Thud__when_it_ends_the_closF29B9E9B4F260920AD79E2B90DD956F5.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Audio/Cage_Thud__when_it_ends_the_closing_animation_.uasset'
+[2024.01.28-12.55.42:091][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Metal_Stairs_Falling" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Audio/Metal_Stairs_Falling.uasset" SILENT=true
+[2024.01.28-12.55.42:102][837]LogSavePackage: Moving output files for package: /Game/Audio/Metal_Stairs_Falling
+[2024.01.28-12.55.42:102][837]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Metal_Stairs_Falling96F682B7479337CF940C1086BDCE2333.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Audio/Metal_Stairs_Falling.uasset'
+[2024.01.28-12.55.42:108][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Table_Falling" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Audio/Table_Falling.uasset" SILENT=true
+[2024.01.28-12.55.42:119][837]LogSavePackage: Moving output files for package: /Game/Audio/Table_Falling
+[2024.01.28-12.55.42:119][837]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Table_FallingE3D19177467FC37154B1579DA93E95F0.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Audio/Table_Falling.uasset'
+[2024.01.28-12.55.42:123][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Chair_Falling" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Audio/Chair_Falling.uasset" SILENT=true
+[2024.01.28-12.55.42:128][837]LogSavePackage: Moving output files for package: /Game/Audio/Chair_Falling
+[2024.01.28-12.55.42:128][837]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Chair_FallingF32EC1FD4747D9F151DB8FBEAA516124.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Audio/Chair_Falling.uasset'
+[2024.01.28-12.55.42:133][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Table_Breaking" FILE="../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Audio/Table_Breaking.uasset" SILENT=true
+[2024.01.28-12.55.42:143][837]LogSavePackage: Moving output files for package: /Game/Audio/Table_Breaking
+[2024.01.28-12.55.42:143][837]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/Table_BreakingB0C8498B47F4B020DAAD1EA76B1AFF0D.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Audio/Table_Breaking.uasset'
+[2024.01.28-12.55.42:155][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 12.1 sec)
+[2024.01.28-12.55.42:157][837]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-12.55.42:157][837]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/1_bell_rings.1_bell_rings
+[2024.01.28-12.55.42:157][837]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/3_bell_rings.3_bell_rings
+[2024.01.28-12.55.42:157][837]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/2_bell_rings.2_bell_rings
+[2024.01.28-12.55.42:157][837]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Cage_Thud__when_it_ends_the_closing_animation_.Cage_Thud__when_it_ends_the_closing_animation_
+[2024.01.28-12.55.42:157][837]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Metal_Stairs_Falling.Metal_Stairs_Falling
+[2024.01.28-12.55.42:157][837]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Table_Falling.Table_Falling
+[2024.01.28-12.55.42:157][837]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Chair_Falling.Chair_Falling
+[2024.01.28-12.55.42:157][837]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Table_Breaking.Table_Breaking
+[2024.01.28-12.56.21:154][336]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-12.56.21:154][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-12.56.26:340][620]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-12.56.26:340][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-12.56.26:421][620]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-12.56.26:421][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-12.56.26:504][620]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-12.56.26:504][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-12.56.36:264][288]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-12.56.36:264][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-12.56.36:274][288]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-12.56.36:274][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-12.56.46:265][979]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-12.56.46:265][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-12.56.47:371][ 79]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-12.56.47:371][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-12.56.49:133][207]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-12.56.49:133][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-12.58.26:244][328]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2024.01.28-12.58.26:334][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.01.28-12.58.27:610][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-12.58.27:711][396]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.01.28-12.58.27:712][396]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/BP_ThirdPersonGameModeF5C98B394B1F164FE98111B90164DB74.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.01.28-12.58.27:722][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 12.2 sec)
+[2024.01.28-12.58.27:723][396]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2024.01.28-12.58.27:723][396]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
