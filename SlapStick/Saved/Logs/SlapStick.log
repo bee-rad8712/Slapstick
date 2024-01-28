@@ -20754,3 +20754,476 @@ Converted Global Transform (0.000000,0.000000,0.000000|90.000000,45.000000,-44.9
 [2024.01.28-05.38.53:432][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
 [2024.01.28-05.38.53:461][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
 [2024.01.28-05.38.53:523][694]LogPlayLevel: Display: Destroying online subsystem :Context_165
+[2024.01.28-05.39.48:160][194]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-05.39.48:160][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-05.39.49:373][242]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.28-05.39.49:373][242]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-05.39.49:373][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-05.39.50:930][302]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.28-05.39.50:930][302]LogWorld: UWorld::CleanupWorld for World_109, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-05.39.50:930][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-05.39.53:153][394]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.28-05.39.53:153][394]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-05.39.53:153][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-05.39.55:819][526]LogViewport: Scene viewport resized to 1112x741, mode Windowed.
+[2024.01.28-05.41.37:347][312]LogInterchangeEngine: [Pending] Importing
+[2024.01.28-05.41.37:348][312]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T054034Z-001/matty_Body_BaseColor.png]
+[2024.01.28-05.41.37:351][312]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.01.28-05.41.37:351][312]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T054034Z-001/matty_Body_Normal.png]
+[2024.01.28-05.41.37:351][312]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.01.28-05.41.37:352][312]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T054034Z-001/matty_Body_OcclusionRoughnessMetallic.png]
+[2024.01.28-05.41.37:353][312]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.01.28-05.41.37:353][312]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T054034Z-001/matty_Face_thing_BaseColor.png]
+[2024.01.28-05.41.37:353][312]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.01.28-05.41.37:353][312]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T054034Z-001/matty_Face_thing_Emissive.png]
+[2024.01.28-05.41.37:354][312]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-05.41.37:354][312]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T054034Z-001/matty_Face_thing_Normal.png]
+[2024.01.28-05.41.37:355][312]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.01.28-05.41.37:355][312]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Bradley Vu/...20240128T054034Z-001/matty_Face_thing_OcclusionRoughnessMetallic.png]
+[2024.01.28-05.41.37:404][313]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.01.28-05.41.37:445][313]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.01.28-05.41.37:457][314]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.01.28-05.41.37:465][314]LogTexture: Display: Building textures: /Game/Characters/Matty/Materials/matty_Face_thing_Emissive.matty_Face_thing_Emissive (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.01.28-05.41.37:471][314]LogTexture: Display: Building textures: /Game/Characters/Matty/Materials/matty_Face_thing_OcclusionRoughnessMetallic.matty_Face_thing_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.01.28-05.41.37:497][314]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.28-05.41.37:503][314]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.01.28-05.41.37:517][314]LogTexture: Display: Building textures: /Game/Characters/Matty/Materials/matty_Face_thing_Normal.matty_Face_thing_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.01.28-05.41.37:547][314]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.28-05.41.37:567][314]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.01.28-05.41.37:567][314]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.01.28-05.41.37:629][314]LogTexture: Display: Building textures: /Game/Characters/Matty/Materials/matty_Body_BaseColor.matty_Body_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.01.28-05.41.37:629][314]LogTexture: Display: Building textures: /Game/Characters/Matty/Materials/matty_Face_thing_BaseColor.matty_Face_thing_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.01.28-05.41.37:631][314]LogTexture: Display: Building textures: /Game/Characters/Matty/Materials/matty_Body_Normal.matty_Body_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.01.28-05.41.37:631][314]LogTexture: Display: Building textures: /Game/Characters/Matty/Materials/matty_Body_OcclusionRoughnessMetallic.matty_Body_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.01.28-05.41.37:715][314]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.01.28-05.41.37:716][314]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.01.28-05.41.37:716][314]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.01.28-05.41.37:721][314]LogInterchangeEngine: [Success] Import Done
+[2024.01.28-05.41.37:750][315]LogInterchangeEngine: [Success] Import Done
+[2024.01.28-05.41.40:738][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-05.41.40:892][449]LogSavePackage: Moving output files for package: /Game/Characters/Matty/Materials/matty_Face_thing_OcclusionRoughnessMetallic
+[2024.01.28-05.41.40:892][449]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/matty_Face_thing_OcclusionRoughnF7CA6E994E6BFCA558488C89A20EAC4B.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/Matty/Materials/matty_Face_thing_OcclusionRoughnessMetallic.uasset'
+[2024.01.28-05.41.40:983][449]LogSavePackage: Moving output files for package: /Game/Characters/Matty/Materials/matty_Body_BaseColor
+[2024.01.28-05.41.40:983][449]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/matty_Body_BaseColorCEF27C334CB726EB77772796F5E16959.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/Matty/Materials/matty_Body_BaseColor.uasset'
+[2024.01.28-05.41.41:048][449]LogSavePackage: Moving output files for package: /Game/Characters/Matty/Materials/matty_Face_thing_Normal
+[2024.01.28-05.41.41:048][449]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/matty_Face_thing_NormalD02EB1BD4386CD522A507ABCEF930514.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/Matty/Materials/matty_Face_thing_Normal.uasset'
+[2024.01.28-05.41.41:069][449]LogSavePackage: Moving output files for package: /Game/Characters/Matty/Materials/matty_Face_thing_Emissive
+[2024.01.28-05.41.41:069][449]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/matty_Face_thing_Emissive6C124F88416AF53AD81D90BE6F1EB841.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/Matty/Materials/matty_Face_thing_Emissive.uasset'
+[2024.01.28-05.41.41:137][449]LogSavePackage: Moving output files for package: /Game/Characters/Matty/Materials/matty_Face_thing_BaseColor
+[2024.01.28-05.41.41:137][449]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/matty_Face_thing_BaseColor526826D642C1DE404E5BB2A0BDE8ED65.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/Matty/Materials/matty_Face_thing_BaseColor.uasset'
+[2024.01.28-05.41.41:244][449]LogSavePackage: Moving output files for package: /Game/Characters/Matty/Materials/matty_Body_OcclusionRoughnessMetallic
+[2024.01.28-05.41.41:244][449]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/matty_Body_OcclusionRoughnessMet5862A297435725505A35A1AA3246CCD5.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/Matty/Materials/matty_Body_OcclusionRoughnessMetallic.uasset'
+[2024.01.28-05.41.41:315][449]LogSavePackage: Moving output files for package: /Game/Characters/Matty/Materials/matty_Body_Normal
+[2024.01.28-05.41.41:315][449]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/matty_Body_NormalD453DFBA40D9CB6C23D78CAD1426A287.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/Matty/Materials/matty_Body_Normal.uasset'
+[2024.01.28-05.41.41:332][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 593 ms (total: 51.4 sec)
+[2024.01.28-05.41.41:333][449]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-05.41.41:334][449]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/Matty/Materials/matty_Face_thing_OcclusionRoughnessMetallic.matty_Face_thing_OcclusionRoughnessMetallic
+[2024.01.28-05.41.41:334][449]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/Matty/Materials/matty_Body_BaseColor.matty_Body_BaseColor
+[2024.01.28-05.41.41:334][449]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/Matty/Materials/matty_Face_thing_Normal.matty_Face_thing_Normal
+[2024.01.28-05.41.41:334][449]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/Matty/Materials/matty_Face_thing_Emissive.matty_Face_thing_Emissive
+[2024.01.28-05.41.41:334][449]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/Matty/Materials/matty_Face_thing_BaseColor.matty_Face_thing_BaseColor
+[2024.01.28-05.41.41:334][449]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/Matty/Materials/matty_Body_OcclusionRoughnessMetallic.matty_Body_OcclusionRoughnessMetallic
+[2024.01.28-05.41.41:334][449]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/Matty/Materials/matty_Body_Normal.matty_Body_Normal
+[2024.01.28-05.43.06:520][125]LogContentBrowser: Deferred new asset file creation: matty_Body_BaseColor_Mat
+[2024.01.28-05.43.06:544][125]LogContentBrowser: Creating deferred item: matty_Body_BaseColor_Mat
+[2024.01.28-05.43.06:564][126]LogContentBrowser: Renaming the item being created (Deferred Item: matty_Body_BaseColor_Mat).
+[2024.01.28-05.43.07:953][219]LogContentBrowser: Attempting asset rename: matty_Body_BaseColor_Mat -> matty_Body_BaseColor_Mat
+[2024.01.28-05.43.08:007][219]LogContentBrowser: End creating deferred item matty_Body_BaseColor_Mat
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: ================================================
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Total job queries 2,480, among them cache hits 2,120 (85.48%)
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Tracking 350 distinct input hashes that result in 164 distinct outputs (46.86%)
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: RAM used: 9.89 MiB of 819.20 MiB budget. Usage: 1.21%
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Shaders Compiled: 274
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Jobs assigned 274, completed 274 (100%)
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Average time worker was idle: 342.05 s
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Time job spent in pending queue: average 0.43 s, longest 2.09 s
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Job execution time: average 0.84 s, max 5.05 s
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Job life time (pending + execution): average 1.27 s, max 5.07
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Shader code size: average 52.835 KiB, min 31.004 KiB, max 73.742 KiB
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 45.67 s
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Jobs were issued in 263 batches (only local compilation was used), average 1.04 jobs/batch
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Average processing rate: 6.00 jobs/sec
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Total thread time: 146.66 s
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Total thread preprocess time: 10.596 s
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Percentage time preprocessing: 7.23%
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Effective parallelization: 3.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    6 times, average 1.11 sec, max 2.74 sec, min 0.67 sec)
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   10 times, average 0.96 sec, max 1.87 sec, min 0.36 sec)
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   10 times, average 0.90 sec, max 1.59 sec, min 0.37 sec)
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   14 times, average 0.83 sec, max 1.84 sec, min 0.37 sec)
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   14 times, average 0.81 sec, max 1.57 sec, min 0.38 sec)
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.66% of total time (compiled   32 times, average 0.49 sec, max 1.57 sec, min 0.25 sec)
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.34% of total time (compiled   20 times, average 0.61 sec, max 1.54 sec, min 0.32 sec)
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.90% of total time (compiled   14 times, average 0.83 sec, max 1.84 sec, min 0.37 sec)
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.74% of total time (compiled   14 times, average 0.81 sec, max 1.57 sec, min 0.38 sec)
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.67% of total time (compiled   14 times, average 0.80 sec, max 1.71 sec, min 0.35 sec)
+[2024.01.28-05.43.08:049][219]LogShaderCompilers: Display: ================================================
+[2024.01.28-05.43.15:749][671]LogContentBrowser: Deferred new asset file creation: matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.43.15:778][671]LogContentBrowser: Creating deferred item: matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.43.15:798][672]LogContentBrowser: Renaming the item being created (Deferred Item: matty_Face_thing_BaseColor_Mat).
+[2024.01.28-05.43.17:095][759]LogContentBrowser: Attempting asset rename: matty_Face_thing_BaseColor_Mat -> matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.43.17:147][759]LogContentBrowser: End creating deferred item matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.43.18:346][824]LogContentBrowser: Attempting asset rename: matty_Face_thing_BaseColor_Mat -> matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.43.19:488][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-05.43.19:593][894]LogSavePackage: Moving output files for package: /Game/Characters/Matty/Materials/matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.43.19:593][894]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/matty_Face_thing_BaseColor_Mat0B9A7CF544DFE226BE01948A2D00CE25.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/Matty/Materials/matty_Face_thing_BaseColor_Mat.uasset'
+[2024.01.28-05.43.19:619][894]LogSavePackage: Moving output files for package: /Game/Characters/Matty/Materials/matty_Body_BaseColor_Mat
+[2024.01.28-05.43.19:619][894]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/matty_Body_BaseColor_MatA2F2418341BD90B6F322EFA0EB8834EA.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/Matty/Materials/matty_Body_BaseColor_Mat.uasset'
+[2024.01.28-05.43.19:629][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 51.5 sec)
+[2024.01.28-05.43.19:629][894]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-05.43.19:629][894]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Characters/Matty/Materials/matty_Face_thing_BaseColor_Mat.matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.43.19:629][894]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Characters/Matty/Materials/matty_Body_BaseColor_Mat.matty_Body_BaseColor_Mat
+[2024.01.28-05.43.25:616][225]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Characters/Matty/Materials/matty_Body_BaseColor_Mat.matty_Body_BaseColor_Mat
+[2024.01.28-05.43.25:620][225]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-05.43.25:620][225]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-05.43.25:834][225]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.43.25:834][225]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.43.25:834][225]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.43.25:834][225]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.43.25:841][225]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.01.28-05.43.25:914][227]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.01.28-05.43.25:914][227]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.28-05.43.25:914][227]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.28-05.43.25:914][227]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.43.25:914][227]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.43.25:914][227]MaterialEditorStats: Shader Count: 4
+[2024.01.28-05.43.29:894][509]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.43.29:894][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.43.29:894][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.43.29:894][509]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.43.29:982][511]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.01.28-05.43.29:982][511]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.28-05.43.29:982][511]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.28-05.43.29:982][511]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.43.29:982][511]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.43.29:982][511]MaterialEditorStats: Shader Count: 4
+[2024.01.28-05.43.38:668][106]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.43.38:668][106]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.43.38:668][106]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.43.38:668][106]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.43.38:767][108]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.01.28-05.43.38:767][108]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.28-05.43.38:767][108]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.28-05.43.38:767][108]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.43.38:767][108]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.43.38:767][108]MaterialEditorStats: Shader Count: 4
+[2024.01.28-05.43.44:872][561]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.43.44:872][561]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.28-05.43.44:872][561]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.43.44:872][561]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.43.44:913][563]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.01.28-05.43.44:913][563]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.28-05.43.44:913][563]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.28-05.43.44:913][563]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.28-05.43.44:913][563]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.43.44:913][563]MaterialEditorStats: Shader Count: 4
+[2024.01.28-05.44.11:538][545]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Characters/MainCharacter/Textures/Protag_unwrap_Body_Texture_BaseColor_Mat.Protag_unwrap_Body_Texture_BaseColor_Mat
+[2024.01.28-05.44.11:546][545]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-05.44.11:546][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-05.44.11:778][545]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.44.11:778][545]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.44.11:778][545]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.44.11:778][545]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.44.11:784][545]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.01.28-05.44.12:430][578]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.28-05.44.12:430][578]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.44.12:430][578]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.44.12:430][578]MaterialEditorStats: Shader Count: 1
+[2024.01.28-05.44.12:528][585]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.01.28-05.44.12:528][585]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.28-05.44.12:528][585]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-05.44.12:528][585]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.44.12:528][585]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.44.12:528][585]MaterialEditorStats: Shader Count: 4
+[2024.01.28-05.45.03:388][523]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.45.03:388][523]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.45.03:388][523]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.45.03:388][523]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.45.03:458][525]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.01.28-05.45.03:458][525]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.28-05.45.03:458][525]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.28-05.45.03:458][525]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.45.03:458][525]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.45.03:458][525]MaterialEditorStats: Shader Count: 4
+[2024.01.28-05.45.10:183][ 47]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.45.10:183][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.45.10:183][ 47]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.45.10:183][ 47]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.45.10:779][ 86]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.28-05.45.10:779][ 86]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.45.10:779][ 86]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.45.10:779][ 86]MaterialEditorStats: Shader Count: 1
+[2024.01.28-05.45.10:877][ 93]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.28-05.45.10:877][ 93]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.28-05.45.10:877][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.45.10:877][ 93]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.45.10:877][ 93]MaterialEditorStats: Shader Count: 3
+[2024.01.28-05.45.10:971][100]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.01.28-05.45.10:971][100]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.28-05.45.10:971][100]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-05.45.10:971][100]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.45.10:971][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.45.10:971][100]MaterialEditorStats: Shader Count: 4
+[2024.01.28-05.45.21:159][889]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.45.21:159][889]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.45.21:159][889]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.45.21:159][889]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.45.21:222][891]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.01.28-05.45.21:222][891]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.28-05.45.21:222][891]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-05.45.21:222][891]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.45.21:222][891]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.45.21:222][891]MaterialEditorStats: Shader Count: 4
+[2024.01.28-05.45.23:098][ 39]LogMaterialEditor: Saving and Compiling material matty_Body_BaseColor_Mat
+[2024.01.28-05.45.23:299][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.28-05.45.23:486][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.28-05.45.23:498][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-05.45.23:591][ 39]LogSavePackage: Moving output files for package: /Game/Characters/Matty/Materials/matty_Body_BaseColor_Mat
+[2024.01.28-05.45.23:592][ 39]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/matty_Body_BaseColor_Mat95BE1AFE46B83DD03E0DA998101F0E14.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/Matty/Materials/matty_Body_BaseColor_Mat.uasset'
+[2024.01.28-05.45.23:601][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 51.6 sec)
+[2024.01.28-05.45.23:602][ 39]AssetCheck: New page: Asset Save: matty_Body_BaseColor_Mat
+[2024.01.28-05.45.23:602][ 39]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Characters/Matty/Materials/matty_Body_BaseColor_Mat.matty_Body_BaseColor_Mat
+[2024.01.28-05.45.23:608][ 39]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.01.28-05.45.23:608][ 39]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.28-05.45.23:608][ 39]MaterialEditorStats: MaxSampler: 270 instructions
+[2024.01.28-05.45.23:608][ 39]MaterialEditorStats: Texture samplers: 6/16
+[2024.01.28-05.45.23:608][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.45.23:608][ 39]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.45.23:608][ 39]MaterialEditorStats: Shader Count: 16
+[2024.01.28-05.45.33:325][746]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-05.45.33:325][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-05.45.43:276][409]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Characters/MainCharacter/Textures/Protag_unwrap_Face_Projecion_BaseColor_Mat.Protag_unwrap_Face_Projecion_BaseColor_Mat
+[2024.01.28-05.45.43:281][409]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-05.45.43:282][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-05.45.43:532][409]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.45.43:532][409]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.45.43:532][409]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.45.43:532][409]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.45.43:540][409]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.01.28-05.45.43:611][411]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.01.28-05.45.43:612][411]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-05.45.43:612][411]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.45.43:612][411]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.45.43:612][411]MaterialEditorStats: Shader Count: 2
+[2024.01.28-05.45.54:399][141]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Characters/Matty/Materials/matty_Face_thing_BaseColor_Mat.matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.45.54:403][141]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-05.45.54:403][141]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-05.45.54:632][141]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.45.54:632][141]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.45.54:632][141]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.45.54:632][141]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.45.54:638][141]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.01.28-05.45.54:706][143]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.01.28-05.45.54:706][143]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.28-05.45.54:706][143]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.28-05.45.54:706][143]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.45.54:706][143]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.45.54:706][143]MaterialEditorStats: Shader Count: 4
+[2024.01.28-05.45.57:521][367]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-05.45.57:521][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-05.46.05:712][998]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.46.05:713][998]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.46.05:713][998]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.46.05:713][998]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.46.05:774][  0]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.01.28-05.46.05:774][  0]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.28-05.46.05:774][  0]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.28-05.46.05:774][  0]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.46.05:774][  0]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.46.05:774][  0]MaterialEditorStats: Shader Count: 4
+[2024.01.28-05.46.11:993][520]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.46.11:993][520]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.46.11:993][520]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.46.11:993][520]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.46.12:014][521]LogShaderCompilers: Display: ================================================
+[2024.01.28-05.46.12:014][521]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.28-05.46.12:014][521]LogShaderCompilers: Display: Total job queries 2,630, among them cache hits 2,262 (86.01%)
+[2024.01.28-05.46.12:014][521]LogShaderCompilers: Display: Tracking 358 distinct input hashes that result in 165 distinct outputs (46.09%)
+[2024.01.28-05.46.12:014][521]LogShaderCompilers: Display: RAM used: 10.05 MiB of 819.20 MiB budget. Usage: 1.23%
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Shaders Compiled: 282
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Jobs assigned 282, completed 282 (100%)
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Average time worker was idle: 361.01 s
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Time job spent in pending queue: average 0.42 s, longest 2.09 s
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Job execution time: average 0.83 s, max 5.05 s
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Job life time (pending + execution): average 1.25 s, max 5.07
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Shader code size: average 52.342 KiB, min 31.004 KiB, max 73.742 KiB
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 47.14 s
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Jobs were issued in 271 batches (only local compilation was used), average 1.04 jobs/batch
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Average processing rate: 5.98 jobs/sec
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Total thread time: 149.154 s
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Total thread preprocess time: 10.934 s
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Percentage time preprocessing: 7.33%
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Effective parallelization: 3.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    6 times, average 1.11 sec, max 2.74 sec, min 0.67 sec)
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   10 times, average 0.96 sec, max 1.87 sec, min 0.36 sec)
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   10 times, average 0.90 sec, max 1.59 sec, min 0.37 sec)
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   14 times, average 0.83 sec, max 1.84 sec, min 0.37 sec)
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   14 times, average 0.81 sec, max 1.57 sec, min 0.38 sec)
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.00% of total time (compiled   34 times, average 0.48 sec, max 1.57 sec, min 0.25 sec)
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.20% of total time (compiled   20 times, average 0.61 sec, max 1.54 sec, min 0.32 sec)
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.93% of total time (compiled   34 times, average 0.35 sec, max 0.44 sec, min 0.28 sec)
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.77% of total time (compiled   14 times, average 0.83 sec, max 1.84 sec, min 0.37 sec)
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.61% of total time (compiled   14 times, average 0.81 sec, max 1.57 sec, min 0.38 sec)
+[2024.01.28-05.46.12:015][521]LogShaderCompilers: Display: ================================================
+[2024.01.28-05.46.12:026][522]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.01.28-05.46.12:026][522]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.28-05.46.12:026][522]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.46.12:026][522]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.46.12:026][522]MaterialEditorStats: Shader Count: 2
+[2024.01.28-05.46.25:467][511]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.46.25:467][511]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.46.25:467][511]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.46.25:467][511]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.46.25:555][513]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.01.28-05.46.25:555][513]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.28-05.46.25:555][513]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.46.25:555][513]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.46.25:555][513]MaterialEditorStats: Shader Count: 2
+[2024.01.28-05.46.34:254][101]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.46.34:254][101]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.46.34:254][101]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.46.34:254][101]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.46.34:339][103]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.01.28-05.46.34:339][103]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.28-05.46.34:339][103]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.46.34:339][103]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.46.34:339][103]MaterialEditorStats: Shader Count: 2
+[2024.01.28-05.46.37:180][299]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.46.37:180][299]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.46.37:180][299]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.46.37:180][299]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.46.37:268][301]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.01.28-05.46.37:268][301]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.28-05.46.37:268][301]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-05.46.37:268][301]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.46.37:268][301]MaterialEditorStats: Shader Count: 2
+[2024.01.28-05.46.44:576][861]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.46.44:577][861]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.28-05.46.44:577][861]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.46.44:577][861]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.46.44:615][863]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.01.28-05.46.44:615][863]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.28-05.46.44:615][863]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.28-05.46.44:615][863]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.46.44:615][863]MaterialEditorStats: Shader Count: 2
+[2024.01.28-05.47.00:011][ 16]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.47.00:012][ 16]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.47.00:012][ 16]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.47.00:012][ 16]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.47.00:780][ 68]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.01.28-05.47.00:780][ 68]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-05.47.00:780][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.47.00:780][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.47.00:780][ 68]MaterialEditorStats: Shader Count: 2
+[2024.01.28-05.47.04:056][320]LogMaterialEditor: Applying material matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.47.04:196][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.28-05.47.04:760][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.28-05.47.04:775][320]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.28-05.47.04:775][320]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.47.04:775][320]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.47.04:775][320]MaterialEditorStats: Shader Count: 2
+[2024.01.28-05.47.04:796][321]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.01.28-05.47.04:796][321]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-05.47.04:796][321]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.47.04:796][321]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.47.04:796][321]MaterialEditorStats: Shader Count: 4
+[2024.01.28-05.47.12:217][762]LogMaterialEditor: Saving and Compiling material matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.47.12:221][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-05.47.13:921][762]LogSavePackage: Moving output files for package: /Game/Characters/Matty/Materials/matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.47.13:922][762]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/matty_Face_thing_BaseColor_Mat147D0F1A4C5FAEA05F90BAA28916B529.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/Matty/Materials/matty_Face_thing_BaseColor_Mat.uasset'
+[2024.01.28-05.47.13:929][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.70 sec (total: 53.3 sec)
+[2024.01.28-05.47.13:931][762]AssetCheck: New page: Asset Save: matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.47.13:931][762]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Characters/Matty/Materials/matty_Face_thing_BaseColor_Mat.matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.47.13:938][762]MaterialEditorStats: Base pass shader: 220 instructions
+[2024.01.28-05.47.13:938][762]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.01.28-05.47.13:938][762]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-05.47.13:938][762]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.47.13:938][762]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.47.13:938][762]MaterialEditorStats: Shader Count: 20
+[2024.01.28-05.47.16:713][934]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Characters/Matty/Materials/matty_Body_BaseColor_Mat.matty_Body_BaseColor_Mat
+[2024.01.28-05.47.16:725][934]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-05.47.16:725][934]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-05.47.16:950][934]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.47.16:950][934]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.47.16:950][934]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.47.16:950][934]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.47.16:955][934]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.01.28-05.47.17:040][936]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.01.28-05.47.17:040][936]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.28-05.47.17:040][936]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-05.47.17:040][936]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.47.17:040][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.47.17:040][936]MaterialEditorStats: Shader Count: 4
+[2024.01.28-05.47.41:082][607]LogMaterial: Display: Material /Game/Characters/Matty/Materials/matty_Body_BaseColor_Mat.matty_Body_BaseColor_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.28-05.47.41:083][607]LogMaterial: Display: Material /Engine/Transient.PreviewMaterial_0 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.28-05.47.41:143][607]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.47.41:143][607]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.47.41:143][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.47.41:143][607]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.47.41:257][608]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.01.28-05.47.41:257][608]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.28-05.47.41:257][608]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-05.47.41:257][608]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.47.41:257][608]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.47.41:257][608]MaterialEditorStats: Shader Count: 4
+[2024.01.28-05.47.42:593][682]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.01.28-05.47.42:593][682]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.28-05.47.42:593][682]MaterialEditorStats: Base pass vertex shader: 275 instructions
+[2024.01.28-05.47.42:593][682]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-05.47.42:593][682]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.47.42:593][682]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.47.42:593][682]MaterialEditorStats: Shader Count: 10
+[2024.01.28-05.47.45:649][859]LogMaterial: Display: Material /Game/Characters/Matty/Materials/matty_Face_thing_BaseColor_Mat.matty_Face_thing_BaseColor_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.28-05.47.45:649][859]LogMaterial: Display: Material /Engine/Transient.matty_Face_thing_BaseColor_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.28-05.47.45:733][859]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-05.47.45:733][859]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.47.45:733][859]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.47.45:733][859]MaterialEditorStats: Shader Count: 0
+[2024.01.28-05.47.45:882][860]MaterialEditorStats: Base pass shader: 220 instructions
+[2024.01.28-05.47.45:882][860]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.01.28-05.47.45:882][860]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-05.47.45:882][860]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.47.45:882][860]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.47.45:882][860]MaterialEditorStats: Shader Count: 20
+[2024.01.28-05.47.46:931][893]MaterialEditorStats: Base pass shader: 220 instructions
+[2024.01.28-05.47.46:931][893]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.01.28-05.47.46:931][893]MaterialEditorStats: Base pass vertex shader: 425 instructions
+[2024.01.28-05.47.46:931][893]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-05.47.46:931][893]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.28-05.47.46:931][893]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-05.47.46:931][893]MaterialEditorStats: Shader Count: 33
+[2024.01.28-05.48.01:817][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-05.48.01:878][866]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-05.48.02:073][866]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Enemies/Enemy1/BP_Enemy1
+[2024.01.28-05.48.02:073][866]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/BP_Enemy1771C87ED4D3846F444277B927D1C7C04.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/ThirdPerson/Blueprints/Enemies/Enemy1/BP_Enemy1.uasset'
+[2024.01.28-05.48.02:082][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 264 ms (total: 53.6 sec)
+[2024.01.28-05.48.02:089][866]AssetCheck: New page: Asset Save: BP_Enemy1
+[2024.01.28-05.48.02:089][866]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Enemies/Enemy1/BP_Enemy1.BP_Enemy1
+[2024.01.28-05.48.12:527][517]LogMaterialEditor: Saving and Compiling material matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.48.12:530][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-05.48.12:587][517]LogSavePackage: Moving output files for package: /Game/Characters/Matty/Materials/matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.48.12:587][517]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/matty_Face_thing_BaseColor_MatBBCD31AD4AAD1958D869F28E545885D3.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/Matty/Materials/matty_Face_thing_BaseColor_Mat.uasset'
+[2024.01.28-05.48.12:596][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 53.6 sec)
+[2024.01.28-05.48.12:598][517]AssetCheck: New page: Asset Save: matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.48.12:598][517]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Characters/Matty/Materials/matty_Face_thing_BaseColor_Mat.matty_Face_thing_BaseColor_Mat
+[2024.01.28-05.48.27:173][948]LogMaterialEditor: Saving and Compiling material matty_Body_BaseColor_Mat
+[2024.01.28-05.48.27:177][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-05.48.27:238][948]LogSavePackage: Moving output files for package: /Game/Characters/Matty/Materials/matty_Body_BaseColor_Mat
+[2024.01.28-05.48.27:239][948]LogSavePackage: Moving '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Saved/matty_Body_BaseColor_Mat7CB96C5A4418C75002ACBFBEEC92397A.tmp' to '../../../../../../Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/Matty/Materials/matty_Body_BaseColor_Mat.uasset'
+[2024.01.28-05.48.27:249][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 53.7 sec)
+[2024.01.28-05.48.27:250][948]AssetCheck: New page: Asset Save: matty_Body_BaseColor_Mat
+[2024.01.28-05.48.27:250][948]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Characters/Matty/Materials/matty_Body_BaseColor_Mat.matty_Body_BaseColor_Mat
+[2024.01.28-05.48.28:121][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.28-05.48.30:641][220]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-05.48.30:642][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-05.48.31:104][243]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-05.48.31:104][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-05.48.31:732][286]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-05.48.31:732][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
