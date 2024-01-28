@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Documents/GitHub/Slapstick/SlapStick/Content/Environment/M_JumboTron_Master.uasset",
+				"F:/Documents/GitHub/Slapstick/SlapStick/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/AJ/S83ULSH02RZPWN3ASWPGGJ.uasset",
+				"F:/Documents/GitHub/Slapstick/SlapStick/Content/Environment/M_JumboTron_Match1.uasset",
+				"F:/Documents/GitHub/Slapstick/SlapStick/Content/Environment/M_JumboTron_Match2.uasset",
+				"F:/Documents/GitHub/Slapstick/SlapStick/Content/Environment/M_JumboTron_Match3.uasset",
+				"F:/Documents/GitHub/Slapstick/SlapStick/Content/Environment/JumboTron.uasset",
 				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/TestCharacter/character_PhysicsAsset.uasset",
 				"C:/Users/Bradley Vu/Documents/GitHub/Slapstick/SlapStick/Content/Characters/TestCharacter/character_Skeleton.uasset",
